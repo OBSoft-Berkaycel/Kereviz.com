@@ -64,7 +64,8 @@ header {
 	text-align: center;
 	background-color: rgba(246,246,246,1.00);
 	padding-top: 36px;
-	height: 784px;
+	height: auto;
+	margin-bottom: 10px;
 }
 /* main content of the site */
 #content .mainContent {
@@ -199,7 +200,9 @@ footer div a {
 }
 /* Menu headings in sidebar */
 #menubar .menu h2 {
-	font-size: 14px;
+	font-size: 16px;
+	font-weight: bold;
+	color: antiquewhite;
 }
 /*Links under menus in sidebar */
 #menubar .menu ul li a {

@@ -1063,6 +1063,8 @@ pre code {
   }
 }
 
+
+
 @media (min-width: 768px) {
   .col-md {
     -ms-flex-preferred-size: 0;
@@ -3972,7 +3974,16 @@ tbody.collapse.show {
   font-size: 1.25rem;
   line-height: inherit;
   white-space: nowrap;
+	width: 150px;
 }
+
+.logo{
+	
+	max-height: 100%;
+	max-width: 100%;
+}
+
+
 
 .navbar-brand:hover, .navbar-brand:focus {
   text-decoration: none;
@@ -8972,4 +8983,8 @@ a.text-dark:hover, a.text-dark:focus {
     border: 1px solid #ddd !important;
   }
 }
+
+
+
+
 /*# sourceMappingURL=bootstrap.css.map */
