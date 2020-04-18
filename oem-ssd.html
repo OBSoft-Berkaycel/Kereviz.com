@@ -120,10 +120,10 @@
           	<p >Sandisk SSD Plus 240GB 530MB-440MB/s Sata 3 2.5"
  
  </p>
-			<p class="price">259,00 $
+			<p class="price">259,00 TL
 
 </p>
-          	<p class="productContent"><del>278,00 $
+          	<p class="productContent"><del>278,00 TL
 </del> </p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
@@ -134,9 +134,9 @@
 "></div>
 			  <p>SanDisk Ultra 3D 500GB 560MB-530MB/s Sata 3 2.5"
 </p>
-				<p class="price">418,99 $
+				<p class="price">418,99 TL
 </p>
-			  <p class="productContent"><del>614,00 $
+			  <p class="productContent"><del>614,00 TL
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
@@ -148,10 +148,10 @@
          <p>Samsung 860 Evo 250GB 560MB-520MB/s Sata3 2.5"
 
 </p>
-				<p class="price">385,20 $
+				<p class="price">385,20 TL
 
 </p>
-			  <p class="productContent"><del>500,00 $
+			  <p class="productContent"><del>500,00 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
@@ -169,10 +169,10 @@
           <p>Samsung 860 Evo 500GB 560MB-520MB/s Sata3 2.5"
 
 </p>
-				<p class="price">611,00 $
+				<p class="price">611,00 TL
 
 </p>
-			  <p class="productContent"><del>852,00 $
+			  <p class="productContent"><del>852,00 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton wow flash">
@@ -186,10 +186,10 @@
           <p>Toshiba TR200 240GB 555MB-540MB/s SATA3 2.5" 3D Nand
 
 </p>
-				<p class="price">327,66 $
+				<p class="price">327,66 TL
 
 </p>
-			  <p class="productContent"><del>346,87 $
+			  <p class="productContent"><del>346,87 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
@@ -203,10 +203,10 @@
           <p>Samsung 970 Evo Plus NVMe 500GB 3500MB/s-3300MB/s M.2
 
 </p>
-				<p class="price">959,90 $
+				<p class="price">959,90 TL
 
 </p>
-			  <p class="productContent"><del>1172,00 $
+			  <p class="productContent"><del>1172,00 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
@@ -223,10 +223,10 @@
           <p>Samsung 970 Evo Plus 250GB 3500MB-2300MB/s NVMe M.2
  
 </p>
-				<p class="price">637,62 $
+				<p class="price">637,62 TL
 
 </p>
-			  <p class="productContent"><del>853,00 $
+			  <p class="productContent"><del>853,00 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
@@ -239,10 +239,10 @@
           <p>Samsung 860 Evo 1TB 560MB-520MB/s Sata3 2.5"
 
 </p>
-				<p class="price">1331,04 $
+				<p class="price">1331,04 TL
 
 </p>
-			  <p class="productContent"><del>1521,00 $
+			  <p class="productContent"><del>1521,00 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
@@ -255,10 +255,10 @@
           <p>Samsung 970 Evo NVMe 1TB 3400MB-2500MB/s M.2
 
 </p>
-				<p class="price">1566,08 $
+				<p class="price">1566,08 TL
 
 </p>
-			  <p class="productContent"><del>1749,00 $
+			  <p class="productContent"><del>1749,00 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
@@ -273,11 +273,11 @@
 
 
 </p>
-				<p class="price">10149,50 $
+				<p class="price">10149,50 TL
 
 
 </p>
-			  <p class="productContent"><del>10463,40 $
+			  <p class="productContent"><del>10463,40 TL
 
 
 </del></p>

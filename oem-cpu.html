@@ -117,13 +117,13 @@
         <article class="productInfo"><!-- Each individual product description -->
           <div><img alt="sample" src="https://productimages.hepsiburada.net/s/19/500/9833416425522.jpg
 "></div>
-          	<p AMD Ryzen 5 2600X 4,25GHz 19MB Cache Soket AM4
+          	<p> AMD Ryzen 5 2600X 4,25GHz 19MB Cache Soket AM4
 
  </p>
-			<p class="price">1219,00 $
+			<p class="price">1219,00 TL
 
 </p>
-          	<p class="productContent"><del>1428,00 $
+          	<p class="productContent"><del>1428,00 TL
 </del> </p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
@@ -134,9 +134,9 @@
 "></div>
 			  <p>AMD Ryzen 5 3600 3,6GHz 35MB Cache Soket AM4
 </p>
-				<p class="price">1466,53 $
+				<p class="price">1466,53 TL
 </p>
-			  <p class="productContent"><del>1762,00 $
+			  <p class="productContent"><del>1762,00 TL
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
@@ -148,10 +148,10 @@
          <p>AMD Ryzen 5 1600 3.60GHz/3.40GHz 16MB Cache Soket AM4
 
 </p>
-				<p class="price">785,00 $
+				<p class="price">785,00 TL
 
 </p>
-			  <p class="productContent"><del>1396,00 $
+			  <p class="productContent"><del>1396,00 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
@@ -169,10 +169,10 @@
           <p>Intel Core i3 9100F 3.6Ghz LGA1151 6MB Cache
 
 </p>
-				<p class="price">639,00 $
+				<p class="price">639,00 TL
 
 </p>
-			  <p class="productContent"><del>752,00 $
+			  <p class="productContent"><del>752,00 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton wow flash">
@@ -186,10 +186,10 @@
           <p>AMD Ryzen 3 3200G 3,6GHz 6MB Cache Soket AM4
 
 </p>
-				<p class="price">819,00 $
+				<p class="price">819,00 TL
 
 </p>
-			  <p class="productContent"><del>849,00 $
+			  <p class="productContent"><del>849,00 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
@@ -203,10 +203,10 @@
           <p>AMD Ryzen 7 3700X 3,6GHz 36MB Cache Soket AM4
 
 </p>
-				<p class="price">2646,14 $
+				<p class="price">2646,14 TL
 
 </p>
-			  <p class="productContent"><del>2952,14 $
+			  <p class="productContent"><del>2952,14 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
@@ -223,10 +223,10 @@
           <p>AMD Ryzen 5 2600 3.9GHz 16MB Cache Soket AM4
  
 </p>
-				<p class="price">1036,13 $
+				<p class="price">1036,13 TL
 
 </p>
-			  <p class="productContent"><del>1304,88 $
+			  <p class="productContent"><del>1304,88 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
@@ -239,10 +239,10 @@
           <p>AMD Ryzen 5 3600X 3,8GHz 35MB Cache Soket AM4
 
 </p>
-				<p class="price">1928,80 $
+				<p class="price">1928,80 TL
 
 </p>
-			  <p class="productContent"><del>2184,00 $
+			  <p class="productContent"><del>2184,00 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
@@ -251,8 +251,8 @@
         <article class="productInfo"><!-- Each individual product description -->
           <div><img alt="sample" src="https://productimages.hepsiburada.net/s/35/500/10471219920946.jpg"></div>
           <p>AMD Ryzen Threadripper 3990X TRX4 2.9GHz 32MB Cache</p>
-				<p class="price">34806,18 $</p>
-			  <p class="productContent"><del>39041,53 $</del></p>
+				<p class="price">34806,18 TL</p>
+			  <p class="productContent"><del>39041,53 TL</del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
@@ -261,9 +261,9 @@
 "></div>
           <p>Intel Core i9 7920X LGA2066 2.9GHZ 16.50MB
 </p>
-				<p class="price">7566,00 $
+				<p class="price">7566,00 TL
 </p>
-			  <p class="productContent"><del>9747,00 $
+			  <p class="productContent"><del>9747,00 TL
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>

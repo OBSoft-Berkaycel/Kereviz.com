@@ -118,9 +118,9 @@
           <div><img alt="sample" src="https://productimages.hepsiburada.net/s/35/500/10494335385650.jpg"></div>
           	<p >Lenovo IdeaPad L340-15IRH Intel Core i5 9300H 16GB 512GB SSD GTX1650 Freedos 15.6" 
  </p>
-			<p class="price">6799,00 $
+			<p class="price">6799,00 TL
 </p>
-          	<p class="productContent"><del>7999,00 $</del> </p>
+          	<p class="productContent"><del>7999,00 TL</del> </p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
@@ -128,8 +128,8 @@
           <div>
 			 <img alt="sample" src="https://productimages.hepsiburada.net/s/36/500/10510493351986.jpg"></div>
 			  <p>Lenovo V155 AMD Ryzen R5 3500U 12GB 1TB HDD GTX 1050 15.6" FHD Freedos Bilgisayar</p>
-				<p class="price">4499,00 $</p>
-			  <p class="productContent"><del>4499,00 $</del></p>
+				<p class="price">4499,00 TL</p>
+			  <p class="productContent"><del>4499,00 TL</del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
@@ -138,9 +138,9 @@
 "></div>
          <p>Asus VivoBook 15 X512DA-EJ957 AMD Ryzen 5 3500U 8GB 256GB SSD Freedos 15.6" 
 </p>
-				<p class="price">3899,00 $
+				<p class="price">3899,00 TL
 </p>
-			  <p class="productContent"><del>4999,00 $
+			  <p class="productContent"><del>4999,00 TL
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
@@ -155,9 +155,9 @@
 " ></div>
           <p>Samsung LC27HG70QQMXUF 27" 1ms 144Hz HDR600 QHD Curved QLED Monitör
 </p>
-				<p class="price">2749,40 $
+				<p class="price">2749,40 TL
 </p>
-			  <p class="productContent"><del>4624,00 $
+			  <p class="productContent"><del>4624,00 TL
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton wow flash">
         </article>
@@ -168,9 +168,9 @@
 "></div>
           <p>Asus VG248QZ 24" 144Hz 1ms (HDMI + Display + DVI-D) Full HD Oyuncu Monitör
 </p>
-				<p class="price">1496,00 $
+				<p class="price">1496,00 TL
 </p>
-			  <p class="productContent"><del>1982,00 $
+			  <p class="productContent"><del>1982,00 TL
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
@@ -181,9 +181,9 @@
 "></div>
           <p>Gigabyte RX 580 Gaming OC 8GB 256Bit GDDR5 PCI-E 3.0 <br> VRAM GPU
 </p>
-				<p class="price">2618,16 $
+				<p class="price">2618,16 TL
 </p>
-			  <p class="productContent"><del>2826,00 $
+			  <p class="productContent"><del>2826,00 TL
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
@@ -197,9 +197,9 @@
 "></div>
           <p>Logitech® M185 Nano Optik Kablosuz Mouse Gri 
 </p>
-				<p class="price">93,06 $
+				<p class="price">93,06 TL
 </p>
-			  <p class="productContent"><del>112,00 $
+			  <p class="productContent"><del>112,00 TL
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
@@ -209,9 +209,9 @@
 "></div>
           <p>Rampage KB-R66 USB RGB LED Q Multimedia Gamer Keyboard Steel
 </p>
-				<p class="price">78,87 $
+				<p class="price">78,87 TL
 </p>
-			  <p class="productContent"><del>91,05 $
+			  <p class="productContent"><del>91,05 TL
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
@@ -221,9 +221,9 @@
 "></div>
           <p>Cooler Master MasterLiquid Lite 240 LIQUID COOLER 
 </p>
-				<p class="price">657,47 $
+				<p class="price">657,47 TL
 </p>
-			  <p class="productContent"><del>999,01 $
+			  <p class="productContent"><del>999,01 TL
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>

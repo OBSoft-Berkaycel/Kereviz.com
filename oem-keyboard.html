@@ -115,32 +115,44 @@
 		  <!-- Each product row contains info of 3 elements -->
 		  
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/35/500/10494335385650.jpg"></div>
-          	<p >Lenovo IdeaPad L340-15IRH Intel Core i5 9300H 16GB 512GB SSD GTX1650 Freedos 15.6" 
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/37/500/10560554565682.jpg
+"></div>
+          	<p >Rampage Titan K9 RGB Mekanik Hisli USB Oyuncu Klavye
+
  </p>
-			<p class="price">6799,00 $
+			<p class="price">99,00 TL
+
 </p>
-          	<p class="productContent"><del>7999,00 $</del> </p>
+          	<p class="productContent"><del>119,00 TL
+</del> </p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
         <article class="productInfo"><!-- Each individual product description -->
           <div>
-			 <img alt="sample" src="https://productimages.hepsiburada.net/s/36/500/10510493351986.jpg"></div>
-			  <p>Lenovo V155 AMD Ryzen R5 3500U 12GB 1TB HDD GTX 1050 15.6" FHD Freedos Bilgisayar</p>
-				<p class="price">4499,00 $</p>
-			  <p class="productContent"><del>4499,00 $</del></p>
+			 <img alt="sample" src="https://productimages.hepsiburada.net/s/20/500/9872574611506.jpg
+"></div>
+			  <p>Rampage KB-R66 USB Gökkuşağı Aydınlatmalı Q Multimedia Oyuncu Klavye
+</p>
+				<p class="price">78,87 TL
+</p>
+			  <p class="productContent"><del>91,05 TL
+</del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/35/500/10465870118962.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/33/500/10403091611698.jpg
+
 "></div>
-         <p>Asus VivoBook 15 X512DA-EJ957 AMD Ryzen 5 3500U 8GB 256GB SSD Freedos 15.6" 
+         <p>Everest KB-GX9 Siyah USB Mekanik Hisli Gökkuşağı Aydın. Q Oyuncu Klavyesi
+ 
 </p>
-				<p class="price">3899,00 $
+				<p class="price">83,57 TL
+
 </p>
-			  <p class="productContent"><del>4999,00 $
+			  <p class="productContent"><del>99,00 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
@@ -151,39 +163,51 @@
 		  
 		<!-- Each product row contains info of 3 elements -->
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/19/1500/9826726772786.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/1/1500/9519449374770.jpg
+
 " ></div>
-          <p>Samsung LC27HG70QQMXUF 27" 1ms 144Hz HDR600 QHD Curved QLED Monitör
+          <p>Logitech G213 Prodigy RGB Oyuncu Klavye
+
 </p>
-				<p class="price">2749,40 $
+				<p class="price">339,47 TL
+
 </p>
-			  <p class="productContent"><del>4624,00 $
+			  <p class="productContent"><del>397,00 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton wow flash">
         </article>
 		  
 		  
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/23/500/10052032954418.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/18/500/9803358371890.jpg
+
 "></div>
-          <p>Asus VG248QZ 24" 144Hz 1ms (HDMI + Display + DVI-D) Full HD Oyuncu Monitör
+          <p>Razer Cynosa Chroma - Turkish Layout
+
 </p>
-				<p class="price">1496,00 $
+				<p class="price">1349,00 TL
+
 </p>
-			  <p class="productContent"><del>1982,00 $
+			  <p class="productContent"><del>546,00 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
 		  
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/4/1500/9629561126962.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/35/1500/10471210188850.jpg
+
 "></div>
-          <p>Gigabyte RX 580 Gaming OC 8GB 256Bit GDDR5 PCI-E 3.0 <br> VRAM GPU
+          <p>Steelseires Apex 3 RGB Oyuncu Klavyesi
+
 </p>
-				<p class="price">2618,16 $
+				<p class="price">549,00 TL
+
 </p>
-			  <p class="productContent"><del>2826,00 $
+			  <p class="productContent"><del>784,28 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
@@ -193,37 +217,70 @@
       <div class="productRow">
 		  
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/7/500/8882971508786.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/32/500/10360643813426.jpg
+
 "></div>
-          <p>Logitech® M185 Nano Optik Kablosuz Mouse Gri 
+          <p>Rampage KB-R96 Ultimate RGB Metal Gövdeli Oyuncu Mekanik Klavye
+
 </p>
-				<p class="price">93,06 $
+				<p class="price">389,00 TL
+
 </p>
-			  <p class="productContent"><del>112,00 $
+			  <p class="productContent"><del>499,00 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/20/500/9872574611506.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/26/500/10160038936626.jpg
+
 "></div>
-          <p>Rampage KB-R66 USB RGB LED Q Multimedia Gamer Keyboard Steel
+          <p>Rampage Rapıdo Plus Semi Mechanical Sese Duyarlı Rainbow Işıklı Makrolu Gaming Klavye
+
 </p>
-				<p class="price">78,87 $
+				<p class="price">163,93 TL
+
 </p>
-			  <p class="productContent"><del>91,05 $
+			  <p class="productContent"><del>169,00 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/20/500/9902024196146.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/18/1500/9784327602226.jpg
+
 "></div>
-          <p>Cooler Master MasterLiquid Lite 240 LIQUID COOLER 
+          <p>Razer Blackwidow Tournament Ed. Chroma V2 Keyboard (Yellow Switch) - US Layout
+
 </p>
-				<p class="price">657,47 $
+				<p class="price">1782,28 TL
+
 </p>
-			  <p class="productContent"><del>999,01 $
+			  <p class="productContent"><del>1782,28 TL
+
+</del></p>
+          <input type="button" name="button" value="Buy" class="buyButton">
+        </article>
+		  
+		  
+		  <article class="productInfo"><!-- Each individual product description -->
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/37/500/10558598381618.jpg
+
+
+"></div>
+          <p>Asus ROG Strix Scope Deluxe Oyuncu Klavye
+
+
+</p>
+				<p class="price">1689,00 TL
+
+
+</p>
+			  <p class="productContent"><del>1689,00 TL
+
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>

@@ -120,10 +120,10 @@
           	<p >Seagate Barracuda 1TB 3.5" 7200RPM 64MB Cache Sata 3
  
  </p>
-			<p class="price">288,99 $
+			<p class="price">288,99 TL
 
 </p>
-          	<p class="productContent"><del>401,00 $
+          	<p class="productContent"><del>401,00 TL
 </del> </p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
@@ -134,9 +134,9 @@
 "></div>
 			  <p>WD Blue 1TB 7200RPM Sata 3.0 64Mb 3,5"
 </p>
-				<p class="price">279,00 $
+				<p class="price">279,00 TL
 </p>
-			  <p class="productContent"><del>375,00 $
+			  <p class="productContent"><del>375,00 TL
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
@@ -148,10 +148,10 @@
          <p>Seagate BarraCuda 2TB 7200RPM 256MB
 
 </p>
-				<p class="price">470,00 $
+				<p class="price">470,00 TL
 
 </p>
-			  <p class="productContent"><del>626,00 $
+			  <p class="productContent"><del>626,00 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
@@ -169,10 +169,10 @@
           <p>Seagate 500GB 5900RPM Sata 3.0 8MB 3.5"
 
 </p>
-				<p class="price">114,99 $
+				<p class="price">114,99 TL
 
 </p>
-			  <p class="productContent"><del>119,78 $
+			  <p class="productContent"><del>119,78 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton wow flash">
@@ -186,10 +186,10 @@
           <p>WD Purple 1TB Intellipower Sata 3.0 64Mb 3,5"
 
 </p>
-				<p class="price">245,00 $
+				<p class="price">245,00 TL
 
 </p>
-			  <p class="productContent"><del>325,90 $
+			  <p class="productContent"><del>325,90 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
@@ -203,10 +203,10 @@
           <p>Toshiba P300 High Performance 3.5" Sata 3.0 1TB
 
 </p>
-				<p class="price">344,35 $
+				<p class="price">344,35 TL
 
 </p>
-			  <p class="productContent"><del>386,00 $
+			  <p class="productContent"><del>386,00 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
@@ -223,10 +223,10 @@
           <p>WD Purple 2TB Intellipower Sata 3.0 64Mb 3,5"
 
 </p>
-				<p class="price">395,00 $
+				<p class="price">395,00 TL
 
 </p>
-			  <p class="productContent"><del>576,00 $
+			  <p class="productContent"><del>576,00 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
@@ -239,10 +239,10 @@
           <p>Seagate Exos X10 3.5'' 16TB 7200RPM 256MB
 
 </p>
-				<p class="price">5399,00 $
+				<p class="price">5399,00 TL
 
 </p>
-			  <p class="productContent"><del>5805,38 $
+			  <p class="productContent"><del>5805,38 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
@@ -255,10 +255,10 @@
           <p>Seagate IronWolf Pro 14TB 7200RPM 256MB Cache SATA 6.0GB/s 3.5" Internal Hard Drive
 
 </p>
-				<p class="price">4199,00 $
+				<p class="price">4199,00 TL
 
 </p>
-			  <p class="productContent"><del>4515,05 $
+			  <p class="productContent"><del>4515,05 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
