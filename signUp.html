@@ -14,7 +14,6 @@
 </head>
 
 <body>
-	
 	<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container">
         <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt=""  class="logo"></a>
@@ -32,18 +31,18 @@
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Categories</a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="#">OEM</a>
-                <a class="dropdown-item" href="#">Computers</a>
-				  <a class="dropdown-item" href="#">Sound System</a>
-                <div class="dropdown-divider"></div>
-                <a class="dropdown-item" href="our_creation.html">Our Creation</a>
+                <a class="dropdown-item" href="oem.html">OEM</a>
+                <a class="dropdown-item" href="computers.html">Computers</a>
+				  <a class="dropdown-item" href="sound-system.html">Sound System</a>
+				  <a class="dropdown-item" href="our_creation.html">Our Creation</a>
+                
               </div>
             </li>
             <li class="nav-item">
-              <a class="nav-link disabled" href="#">Log In</a>
+              <a class="nav-link disabled" href="user-login.html">Log In</a>
 			</li>
 			  <li class="nav-item">
-			  <a class="nav-link " href="#"><span style="font-weight: bold;">Sign Up</span></a>
+			  <a class="nav-link " href="signUp.html"><span style="font-weight: bold;">Sign Up</span></a>
 			  </li>
           </ul>
           <form class="form-inline my-2 my-lg-0">
@@ -54,7 +53,7 @@
       </div>
     </nav>
 	
-	
+
 	
 <div id="mainWrapper" style="width: 90%;">
   
@@ -66,45 +65,44 @@
       <div id="menubar">
         <nav class="menu">
           <h2><!-- Title for menuset 1 -->
-			  <a href="">OEM</a></h2>
+			  <a href="oem.html">OEM</a></h2>
           <hr>
           <ul>
             <!-- List of links under menuset 1 -->
-            <li><a href="" title="Link">Motherboard</a></li>
-            <li><a href="" title="Link">CPU</a></li>
-            <li><a href="" title="Link">GPU(Video RAM)</a></li>
-			<li><a href="" title="Link">Cases</a></li>
-            <li><a href="" title="Link">RAM</a></li>
-            <li><a href="" title="Link">HDD</a></li>
-			<li><a href="" title="Link">SSD</a></li>
-			<li><a href="" title="Link">Cooling Systems</a></li>
-			<li><a href="" title="Link">Monitor</a></li>
-			<li><a href="" title="Link">Mouse</a></li>
-			<li><a href="" title="Link">Keyboard</a></li>
+            <li><a href="oem-motherboard.html" title="Link">Motherboard</a></li>
+            <li><a href="oem-cpu.html" title="Link">CPU</a></li>
+            <li><a href="oem-gpu.html" title="Link">GPU(Video RAM)</a></li>
+			<li><a href="oem-cases.html" title="Link">Cases</a></li>
+            <li><a href="oem-ram.html" title="Link">RAM</a></li>
+            <li><a href="oem-hdd.html" title="Link">HDD</a></li>
+			<li><a href="oem-ssd.html" title="Link">SSD</a></li>
+			<li><a href="oem-cooling-system.html" title="Link">Cooling Systems</a></li>
+			<li><a href="Product Pages/OEM/monitor.html" title="Link">Monitor</a></li>
+			<li><a href="oem-mouse.html" title="Link">Mouse</a></li>
+			<li><a href="oem-keyboard.html" title="Link">Keyboard</a></li>
            
           </ul>
         </nav>
         <nav class="menu">
-          <h2>COMPUTERS</h2>
+          <h2><a href="computers.html">COMPUTERS</a></h2>
           <!-- Title for menuset 2 -->
           <hr>
           <ul>
             <!--List of links under menuset 2 -->
-            <li><a href="#" title="Link">Notebook</a></li>
-            <li><a href="#" title="Link">Desktop</a></li>
-            <li><a href="#" title="Link">Tablet</a></li>
+            <li><a href="comp-notebook.html" title="Link">Notebook</a></li>
+            <li><a href="comp-tablet.html" title="Link">Tablet</a></li>
             
           </ul>
         </nav>
 		  <nav class="menu">
-          <h2>SOUND SYSTEMS</h2>
+          <h2><a href="sound-system.html">SOUND SYSTEMS</a></h2>
           <!-- Title for menuset 2 -->
           <hr>
           <ul>
             <!--List of links under menuset 2 -->
-            <li><a href="#" title="Link">Microphones</a></li>
-            <li><a href="#" title="Link">Headphones</a></li>
-            <li><a href="#" title="Link">Speakers</a></li>
+            <li><a href="sound-mic.html" title="Link">Microphones</a></li>
+            <li><a href="sound-headphone.html" title="Link">Headphones</a></li>
+            <li><a href="sound-speaker.html" title="Link">Speakers</a></li>
            
           </ul>
         </nav>
@@ -112,28 +110,20 @@
     </section>
     <section class="mainContent">
 		
-    <div class="card-body" style="width: 586px;">
+      
 		
-		<img src="https://cdn.inksoft.com/images/userart/images/matt_fspdesigns.com/5ffb01c0-70b0-44fa-b17f-cfa76a8151c0/Your-design-here.png" alt="" style="width: 50%;; height: 50%;">
+
+				<form action="/web_service.php">
+			  <label for="user_type">Choose user type:</label>
+			  <select id="user_type" name="user_type">
+				<option value="admin">Admin</option>
+				<option value="user">User</option>
+			  </select>
+			  <input type="submit" value="Submit">
+			</form>
+
 		
-		<p style="text-align: center;">Hello dear user,
-			<br>
-In this section, we create the best and the best quality product for you by using the money in your pocket. All you have to do is tell us your maximum budget. According to the budget you sent us, we send 5 of your favorite products to your mail address within 2-3 days. All you have to do is enter a budget below. Then enjoy a warm coffee while we create the most suitable results for you.
-		</p>
 		
-		
-		<input class="form-control mr-sm-2" type="search" placeholder="Enter Your Maximum Budget:(Exp:4000)" aria-label="Search" style="border-radius: 30px;">
-		<br>
-		<input class="form-control mr-sm-2" type="search" placeholder="Enter Your E-mail:(Exp:example@example.com)" aria-label="Search" style="border-radius: 30px;">
-		<br>
-            <button class="btn  my-2 my-sm-0" type="submit" style="background-color: crimson; width: 250px; border-radius: 30px;" onClick="myFunc()">
-				<span style="font-weight: bold; color: antiquewhite;" >Send</span>
-		</button>
-		
-	</div>
-		
-  
-	
     </section>
   </div>
 	
@@ -143,16 +133,16 @@ In this section, we create the best and the best quality product for you by usin
           <div class="row text-center">
             <div class="col-sm-6 col-md-4 col-lg-4 col-12">
               <ul class="list-unstyled">
-                <li class="btn-link"> <a>Home Page</a> </li>
-                <li class="btn-link"> <a>Products</a> </li>
-                <li class="btn-link"> <a>About</a> </li>
-                <li class="btn-link"> <a>Contact Us</a> </li>
+                <li class="btn-link"> <a href="index.html">Home Page</a> </li>
+                <li class="btn-link"> <a href="products.html">Products</a> </li>
+                <li class="btn-link"> <a href="about.html">About</a> </li>
+                <li class="btn-link"> <a href="contact.html">Contact Us</a> </li>
               </ul>
             </div>
             <div class="col-sm-6 col-md-4 col-lg-4 col-12">
               <ul class="list-unstyled">
-                <li class="btn-link"> <a>Privacy Policy</a> </li>
-                <li class="btn-link"> <a>User Agreement</a> </li>
+                <li class="btn-link"> <a href="privacy-policy.html">Privacy Policy</a> </li>
+                
               </ul>
             </div>
             <div class="col-sm-6 col-md-4 col-lg-4 col-12">
@@ -169,7 +159,7 @@ In this section, we create the best and the best quality product for you by usin
         <div class="col-md-4 col-lg-5 col-6">
           <address>
             <strong>OB Soft Technologies, Inc.</strong><br>
-            Indian Treasure Link<br>
+            
             Istanbul Heybeliada, 34973<br>
             <abbr title="Phone">Phone:</abbr> (210)-452-3446
           </address>
@@ -197,12 +187,5 @@ In this section, we create the best and the best quality product for you by usin
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap-4.0.0.js"></script>
-	
-	<script>
-		function myFunc(){
-			
-			alert("Request Succesfull. We will send the product options your email in 2 or 3 days!");
-		}
-	</script>
 </body>
 </html>
