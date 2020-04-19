@@ -115,33 +115,31 @@
 		  <!-- Each product row contains info of 3 elements -->
 		  
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/35/500/10494335385650.jpg"></div>
-          	<p >Lenovo IdeaPad L340-15IRH Intel Core i5 9300H 16GB 512GB SSD GTX1650 Freedos 15.6" 
- </p>
-			<p class="price">6799,00 $
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/24/550/10091419664434.jpg/format:webp"></div>
+          	<p >GameBooster Ghost Shark Rainbow RGB LED Titreşimli 7.1 Siyah Oyuncu Kulaklığı (GB-H8)</p>
+			<p class="price">341,16 TL
 </p>
-          	<p class="productContent"><del>7999,00 $</del> </p>
+          	<p class="productContent"><del>405 TL</del> </p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
         <article class="productInfo"><!-- Each individual product description -->
           <div>
-			 <img alt="sample" src="https://productimages.hepsiburada.net/s/36/500/10510493351986.jpg"></div>
-			  <p>Lenovo V155 AMD Ryzen R5 3500U 12GB 1TB HDD GTX 1050 15.6" FHD Freedos Bilgisayar</p>
-				<p class="price">4499,00 $</p>
-			  <p class="productContent"><del>4499,00 $</del></p>
+			 <img alt="sample" src="https://productimages.hepsiburada.net/s/6/280-413/9740391743538.jpg
+"></div>
+			  <p>HP 1KF76AA OMEN by HP 800 Oyuncu KulakLIK</p>
+				<p class="price">349,90 TL</p>
+			  <p class="productContent"><del>529 TL</del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/35/500/10465870118962.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/24/400-592/10091419598898.jpg
+
 "></div>
-         <p>Asus VivoBook 15 X512DA-EJ957 AMD Ryzen 5 3500U 8GB 256GB SSD Freedos 15.6" 
-</p>
-				<p class="price">3899,00 $
-</p>
-			  <p class="productContent"><del>4999,00 $
-</del></p>
+         <p>GameBooster Spirit Wheel Rainbow RGB LED Titreşimli 7.1 Siyah Oyuncu Kulaklığı (GB-H7)</p>
+				<p class="price">224,66 TL</p>
+			  <p class="productContent"><del>302 TL</del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
       </div>
@@ -151,40 +149,37 @@
 		  
 		<!-- Each product row contains info of 3 elements -->
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/19/1500/9826726772786.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/31/400-592/10321181343794.jpg
+
 " ></div>
-          <p>Samsung LC27HG70QQMXUF 27" 1ms 144Hz HDR600 QHD Curved QLED Monitör
-</p>
-				<p class="price">2749,40 $
-</p>
-			  <p class="productContent"><del>4624,00 $
-</del></p>
+          <p>Lastvoice BM800 Mikrofon + Stand Filtre + 7.1 Ses Kartı Seti (Mavi)</p>
+				<p class="price">239 TL</p>
+			  <p class="productContent"><del>275 TL</del></p>
           <input type="button" name="button" value="Buy" class="buyButton wow flash">
         </article>
 		  
 		  
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/23/500/10052032954418.jpg
+          <div><img alt="sample" src="https://yonkamuzikmarket-img.ticimaxcdn.com/Uploads/UrunResimleri/buyuk/audio-technica-bp40-genis-diyafram-dinam-c47a.jpg
+
 "></div>
-          <p>Asus VG248QZ 24" 144Hz 1ms (HDMI + Display + DVI-D) Full HD Oyuncu Monitör
+          <p>Audio Technica BP40 Geniş Diyaframlı Dinamik Yayın Mikrofonu
+
 </p>
-				<p class="price">1496,00 $
-</p>
-			  <p class="productContent"><del>1982,00 $
-</del></p>
+				<p class="price">4200,09 TL</p>
+			  <p class="productContent"><del>4200,09 TL</del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
 		  
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/4/1500/9629561126962.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/21/280-413/9902683684914.jpg
+
+
 "></div>
-          <p>Gigabyte RX 580 Gaming OC 8GB 256Bit GDDR5 PCI-E 3.0 <br> VRAM GPU
-</p>
-				<p class="price">2618,16 $
-</p>
-			  <p class="productContent"><del>2826,00 $
-</del></p>
+          <p>Trust 22191 Gxt 212 Mico Tripod Ayaklı Usb Gaming Oyuncu Mikrofon</p>
+				<p class="price">89,9 TL</p>
+			  <p class="productContent"><del>109 TL</del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
       </div>
@@ -193,38 +188,33 @@
       <div class="productRow">
 		  
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/7/500/8882971508786.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/4/400-592/9651112771634.jpg
+
+
 "></div>
-          <p>Logitech® M185 Nano Optik Kablosuz Mouse Gri 
-</p>
-				<p class="price">93,06 $
-</p>
-			  <p class="productContent"><del>112,00 $
-</del></p>
+          <p>Steelseries Arctis 5 USB RGB Kulaküstü Beyaz Oyuncu Kulaklığı SSH61444</p>
+				<p class="price">799 TL</p>
+			  <p class="productContent"><del>841,0 TL</del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/20/500/9872574611506.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/34/280-413/10443452284978.jpg
+
 "></div>
-          <p>Rampage KB-R66 USB RGB LED Q Multimedia Gamer Keyboard Steel
-</p>
-				<p class="price">78,87 $
-</p>
-			  <p class="productContent"><del>91,05 $
-</del></p>
+          <p>GameBooster H03 Dragon King Running RGB LED Titreşimli 7.1 Siyah Oyuncu Kulaklığı GB-H03</p>
+				<p class="price">328,13 TL</p>
+			  <p class="productContent"><del>386,56 TL</del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/20/500/9902024196146.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/31/400-592/10350388379698.jpg
+
 "></div>
-          <p>Cooler Master MasterLiquid Lite 240 LIQUID COOLER 
-</p>
-				<p class="price">657,47 $
-</p>
-			  <p class="productContent"><del>999,01 $
-</del></p>
+          <p>Marantz Umpire Usb Mikrofon</p>
+				<p class="price">550,1 TL</p>
+			  <p class="productContent"><del>698,93 TL</del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
       </div>
