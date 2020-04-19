@@ -33,10 +33,13 @@
               </div>
             </li>
             <li class="nav-item">
-              <a class="nav-link active" href="user-login.html">Log In</a>
+              <a class="nav-link" href="user-login.php">Log In</a>
             </li>
 			   <li class="nav-item">
-              <a class="nav-link" href="#"><span style="font-weight: bold;">Sign Up</span></a>
+              <a class="nav-link" href="signUp.php"><span style="font-weight: bold;">Sign Up</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="user-login.php">Log Out</a>
             </li>
           </ul>
           <form class="form-inline my-2 my-lg-0">
@@ -418,6 +421,8 @@
       </div>
     </div>
     <hr>
+
+    
      <div class="container text-white bg-dark p-4">
       <div class="row">
         <div class="col-6 col-md-8 col-lg-7">

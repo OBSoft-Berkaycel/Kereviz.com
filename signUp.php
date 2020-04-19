@@ -1,3 +1,16 @@
+<?php 
+
+
+
+
+ ?>
+
+
+
+
+
+
+
 <!doctype html>
 <html>
 <head>
@@ -10,36 +23,36 @@
 	<script src="js/wow.js"></script>
 	<link href="css/bootstrap-4.0.0.css" rel="stylesheet">
 	<link rel="stylesheet" href="css/animate.css">
-
+	
 </head>
 
 <body>
 	<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container">
-        <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt=""  class="logo"></a>
+        <a class="navbar-brand" href="index.php"><img src="images/logo.png" alt=""  class="logo"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="index.html">Home </a>
+              <a class="nav-link" href="index.php">Home </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="products.html">Products <span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="products.php">Products <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Categories</a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="oem.html">OEM</a>
-                <a class="dropdown-item" href="computers.html">Computers</a>
-				  <a class="dropdown-item" href="sound-system.html">Sound System</a>
-				  <a class="dropdown-item" href="our_creation.html">Our Creation</a>
+                <a class="dropdown-item" href="oem.php">OEM</a>
+                <a class="dropdown-item" href="computers.php">Computers</a>
+				  <a class="dropdown-item" href="sound-system.php">Sound System</a>
+				  <a class="dropdown-item" href="our_creation.php">Our Creation</a>
                 
               </div>
             </li>
             <li class="nav-item">
-              <a class="nav-link disabled" href="user-login.html">Log In</a>
+              <a class="nav-link disabled" href="user-login.php">Log In</a>
 			</li>
 			  <li class="nav-item">
 			  <a class="nav-link " href="signUp.html"><span style="font-weight: bold;">Sign Up</span></a>
@@ -47,39 +60,44 @@
           </ul>
           <form class="form-inline my-2 my-lg-0">
             <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-            <button class="btn btn-outline-success my-2 my-sm-0" type="submit" style="margin-right: 15px;">Search</button>
-			  <img src="images/shopping_cart_32px.png" alt="">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
           </form>
         </div>
       </div>
     </nav>
-	
 
-	
-<div id="mainWrapper" style="width: 90%;">
-  
-  
-  <div id="content">
+
+
+    <div id="content" style="margin-left: 120px; margin-top: 80px; ">
     
     <section class="mainContent">
-		
     
-		
-		 <form class="login-form">
-      <input type="text" placeholder="username"/>
-      <input type="password" placeholder="password"/>
-      <button>login</button>
-      <p class="message">Not registered? <a href="#">Create an account</a></p>
-    </form>
-		
-		
-		
-		
-		
-    </section>
-  </div>
+   <div class="container">
+        <form>
+            <div class="form-input">
+                <input type="text" name="email" placeholder="Enter Your Email"/> 
+            </div>
+              <br>
+            <div class="form-input">
+                <input type="text" name="username" placeholder="Enter Your User Name"/> 
+            </div>
+              <br>
+            <div class="form-input">
+                <input type="password" name="password" placeholder="Enter Your Password"/>
+            </div>
+              <br>
+              <div class="form-input">
+                <input type="password" name="passwordRepeat" placeholder="Repeat Your Password"/>
+            </div>
+            <br>
+            <input type="submit" name="signup-submit" value="SIGN UP" class="btn-login"/>
+        </form>
+    </div>
 	
-	 <div class="container text-white bg-dark p-4">
+
+  <br><br><br><br><br>
+	
+	 <div class="container text-white bg-dark p-4" style="width: 120%;">
       <div class="row">
         <div class="col-6 col-md-8 col-lg-7">
           <div class="row text-center">
@@ -91,20 +109,20 @@
                 <li class="btn-link"> <a href="contact.html">Contact Us</a> </li>
               </ul>
             </div>
-			  
-			  <section>
-				  <div class="col-sm-6 col-md-4 col-lg-4 col-12">
+        
+        <section>
+          <div class="col-sm-6 col-md-4 col-lg-4 col-12">
               <ul class="list-unstyled">
                 <li class="btn-link"> <a href="privacy-policy.html">Privacy Policy</a> </li>
                 
               </ul>
             </div>
-			  </section>
+        </section>
             
-			  
-			  <section>
-			  <div class="col-sm-6 col-md-4 col-lg-4 col-12">
-				<span class="price">Social Media</span>
+        
+        <section>
+        <div class="col-sm-6 col-md-4 col-lg-4 col-12">
+        <span class="price">Social Media</span>
               <ul class="list-unstyled">
                 <li class="btn-link"> <a href="https://tr.linkedin.com/">LinkedIn</a> </li>
                 <li class="btn-link"> <a href="https://twitter.com/explore">Twitter</a> </li>
@@ -112,9 +130,9 @@
                 <li class="btn-link"> <a href="https://tr-tr.facebook.com/">Facebook</a> </li>
               </ul>
             </div>
-			  </section>
+        </section>
             
-			  
+        
           </div>
         </div>
         <div class="col-md-4 col-lg-5 col-6">
@@ -131,7 +149,7 @@
         </div>
       </div>
     </div>
-	
+  
  </div>
   <footer class="text-center">
       <div class="container">
@@ -143,11 +161,10 @@
       </div>
     </footer>
 
-	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="js/jquery-3.2.1.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap-4.0.0.js"></script>
-	
 </body>
 </html>

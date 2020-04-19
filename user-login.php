@@ -10,7 +10,7 @@
 	<script src="js/wow.js"></script>
 	<link href="css/bootstrap-4.0.0.css" rel="stylesheet">
 	<link rel="stylesheet" href="css/animate.css">
-	
+
 </head>
 
 <body>
@@ -23,31 +23,32 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="index.html">Home </a>
+              <a class="nav-link" href="index.php">Home </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="products.html">Products <span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="products.php">Products <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Categories</a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="oem.html">OEM</a>
-                <a class="dropdown-item" href="computers.html">Computers</a>
-				  <a class="dropdown-item" href="sound-system.html">Sound System</a>
-				  <a class="dropdown-item" href="our_creation.html">Our Creation</a>
+                <a class="dropdown-item" href="oem.php">OEM</a>
+                <a class="dropdown-item" href="computers.php">Computers</a>
+				  <a class="dropdown-item" href="sound-system.php">Sound System</a>
+				  <a class="dropdown-item" href="our_creation.php">Our Creation</a>
                 
               </div>
             </li>
             <li class="nav-item">
-              <a class="nav-link disabled" href="user-login.html">Log In</a>
+              <a class="nav-link" href="user-login.php">Log In</a>
 			</li>
 			  <li class="nav-item">
-			  <a class="nav-link " href="signUp.html"><span style="font-weight: bold;">Sign Up</span></a>
+			  <a class="nav-link " href="signUp.php"><span style="font-weight: bold;">Sign Up</span></a>
 			  </li>
           </ul>
           <form class="form-inline my-2 my-lg-0">
             <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit" style="margin-right: 15px;">Search</button>
+			  <img src="images/shopping_cart_32px.png" alt="">
           </form>
         </div>
       </div>
@@ -58,70 +59,28 @@
 <div id="mainWrapper" style="width: 90%;">
   
   
-  <div id="content">
-    <section class="sidebar bg-dark"> 
-      <!-- This adds a sidebar with 1 searchbox,2 menusets, each with 4 links -->
-      
-      <div id="menubar">
-        <nav class="menu">
-          <h2><!-- Title for menuset 1 -->
-			  <a href="oem.html">OEM</a></h2>
-          <hr>
-          <ul>
-            <!-- List of links under menuset 1 -->
-            <li><a href="oem-motherboard.html" title="Link">Motherboard</a></li>
-            <li><a href="oem-cpu.html" title="Link">CPU</a></li>
-            <li><a href="oem-gpu.html" title="Link">GPU(Video RAM)</a></li>
-			<li><a href="oem-cases.html" title="Link">Cases</a></li>
-            <li><a href="oem-ram.html" title="Link">RAM</a></li>
-            <li><a href="oem-hdd.html" title="Link">HDD</a></li>
-			<li><a href="oem-ssd.html" title="Link">SSD</a></li>
-			<li><a href="oem-cooling-system.html" title="Link">Cooling Systems</a></li>
-			<li><a href="Product Pages/OEM/monitor.html" title="Link">Monitor</a></li>
-			<li><a href="oem-mouse.html" title="Link">Mouse</a></li>
-			<li><a href="oem-keyboard.html" title="Link">Keyboard</a></li>
-           
-          </ul>
-        </nav>
-        <nav class="menu">
-          <h2><a href="computers.html">COMPUTERS</a></h2>
-          <!-- Title for menuset 2 -->
-          <hr>
-          <ul>
-            <!--List of links under menuset 2 -->
-            <li><a href="comp-notebook.html" title="Link">Notebook</a></li>
-            <li><a href="comp-tablet.html" title="Link">Tablet</a></li>
-            
-          </ul>
-        </nav>
-		  <nav class="menu">
-          <h2><a href="sound-system.html">SOUND SYSTEMS</a></h2>
-          <!-- Title for menuset 2 -->
-          <hr>
-          <ul>
-            <!--List of links under menuset 2 -->
-            <li><a href="sound-mic.html" title="Link">Microphones</a></li>
-            <li><a href="sound-headphone.html" title="Link">Headphones</a></li>
-            <li><a href="sound-speaker.html" title="Link">Speakers</a></li>
-           
-          </ul>
-        </nav>
-      </div>
-    </section>
+  <div id="content" style="margin-left: 120px; margin-top: 80px; ">
+    
     <section class="mainContent">
 		
-      
+   <div class="container">
+        <form>
+            <div class="form-input">
+                <input type="text" name="username" placeholder="Enter Your User Name"/> 
+            </div>
+            <br>
+            <div class="form-input">
+                <input type="password" name="password" placeholder="Enter Your Password"/>
+        </div>
+        <br>
+            <input type="submit" name="login-submit" value="LOGIN" class="btn-login"/>
+        </form>
+    </div>
 		
-
-				<form action="/web_service.php">
-			  <label for="user_type">Choose user type:</label>
-			  <select id="user_type" name="user_type">
-				<option value="admin">Admin</option>
-				<option value="user">User</option>
-			  </select>
-			  <input type="submit" value="Submit">
-			</form>
-
+		 
+		<br><br><br><br><br><br><br><br><br><br><br><br><br>
+		
+		
 		
 		
     </section>
@@ -139,13 +98,19 @@
                 <li class="btn-link"> <a href="contact.html">Contact Us</a> </li>
               </ul>
             </div>
-            <div class="col-sm-6 col-md-4 col-lg-4 col-12">
+			  
+			  <section>
+				  <div class="col-sm-6 col-md-4 col-lg-4 col-12">
               <ul class="list-unstyled">
                 <li class="btn-link"> <a href="privacy-policy.html">Privacy Policy</a> </li>
                 
               </ul>
             </div>
-            <div class="col-sm-6 col-md-4 col-lg-4 col-12">
+			  </section>
+            
+			  
+			  <section>
+			  <div class="col-sm-6 col-md-4 col-lg-4 col-12">
 				<span class="price">Social Media</span>
               <ul class="list-unstyled">
                 <li class="btn-link"> <a href="https://tr.linkedin.com/">LinkedIn</a> </li>
@@ -154,6 +119,9 @@
                 <li class="btn-link"> <a href="https://tr-tr.facebook.com/">Facebook</a> </li>
               </ul>
             </div>
+			  </section>
+            
+			  
           </div>
         </div>
         <div class="col-md-4 col-lg-5 col-6">
@@ -187,5 +155,6 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap-4.0.0.js"></script>
+	
 </body>
 </html>
