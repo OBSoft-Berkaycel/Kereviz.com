@@ -10,7 +10,12 @@
 		$passwordRepeat = $_POST['passwordRepeat'];
 
 		if(empty($email) || empty($username) || empty($password) || empty($passwordRepeat)) {
-			header("Location: ../signUp.php?eroor=emptyfield&email=".$email."&username=".$username)
+			header("Location: ../signUp.php?error=emptyfield&email=".$email."&username=".$username);
+			exit();
+		}
+
+		else if () {
+			header("Location: ../signUp.php?invalidmail=emptyfield&email=".$email."&username=".$username);
 		}
 
 	}

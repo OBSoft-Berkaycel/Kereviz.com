@@ -55,7 +55,7 @@
               <a class="nav-link disabled" href="user-login.php">Log In</a>
 			</li>
 			  <li class="nav-item">
-			  <a class="nav-link " href="signUp.html"><span style="font-weight: bold;">Sign Up</span></a>
+			  <a class="nav-link " href="signUp.php"><span style="font-weight: bold;">Sign Up</span></a>
 			  </li>
           </ul>
           <form class="form-inline my-2 my-lg-0">
