@@ -134,8 +134,8 @@
               <h5 class="card-title">GigaByte</h5>
 				<p>Gigabyte B450M S2H AMD B450 2133MHz DDR4 Soket AM4 mATX Anakart
 				</p>
-              <p class="card-text"><del style="color: darkgray;">543,33 $
-				</del> <br>489,00 $
+              <p class="card-text"><del style="color: darkgray;">543,33 TL
+				</del> <br>489,00 TL
 				</p>
 				
               <a href="#" class="btn btn-primary">Add to Cart</a>
@@ -150,9 +150,9 @@
 				<p>A320M-S2H AMD A320 3200Mhz(OC) DDR4 Socket AM4 PCI-E 2.0 Anakart
 
 				</p>
-              <p class="card-text"><del style="color: darkgray;">470,00 $
+              <p class="card-text"><del style="color: darkgray;">470,00 TL
 
-				</del> <br>422,43 $
+				</del> <br>422,43 TL
 
 				</p>
               <a href="#" class="btn btn-primary">Add to Cart</a>
@@ -168,9 +168,9 @@
 				<p>Asus Prime A320M-F AMD A320 2133MHz DDR4 Soket AM4 mATX Anakart
 
 				</p>
-              <p class="card-text"><del style="color: darkgray;">529,62 $
+              <p class="card-text"><del style="color: darkgray;">529,62 TL
 
-				</del> <br>443,55 $
+				</del> <br>443,55 TL
 
 				</p>
               <a href="#" class="btn btn-primary">Add to Cart</a>
@@ -190,10 +190,10 @@
 				<p>AMD Ryzen 5 2600X 4,25GHz 19MB Cache Soket AM4
 				</p>
               <p class="card-text"><del style="color: darkgray;">
-				  1428,00 $
+				  1428,00 TL
 				</del> 
 				  <br>
-				  1219,00 $
+				  1219,00 TL
 				</p>
               <a href="#" class="btn btn-primary">Add to Cart</a>
             </div>
@@ -207,10 +207,10 @@
                <h5 class="card-title">MSI</h5>
 				<p>MSI AMD Radeon RX 570 ARMOR 4G OC 4GB 256 bit GDDR5 DX(12) PCI-E 3.0
 				</p>
-              <p class="card-text"><del style="color: darkgray;">1621,00 $
+              <p class="card-text"><del style="color: darkgray;">1621,00 TL
 				</del>
 				  <br>
-				  1292,94 $
+				  1292,94 TL
 				</p>
               <a href="#" class="btn btn-primary">Add to Cart</a>
             </div>
@@ -224,10 +224,10 @@
                <h5 class="card-title">DARK DIAMOND</h5>
 				<p>Dark Diamond PRO 4x12cm RGB USB 3.0 Desktop Case
 				</p>
-              <p class="card-text"><del style="color: darkgray;">429,00 $
+              <p class="card-text"><del style="color: darkgray;">429,00 TL
 
 
-				</del> <br>358,58 $
+				</del> <br>358,58 TL
 
 
 				</p>
@@ -251,10 +251,10 @@
               <div class="media-body">
                 <h5 class="mt-0 mb-1">Cooler Master</h5>
                 Cooler Master Hyper 212 LED Intel/AMD CPU COOLING SYSTEM
-				  <p class="card-text"><del style="color: darkgray;">429,00 $
+				  <p class="card-text"><del style="color: darkgray;">429,00 TL
 
 
-				</del> <br>358,58 $
+				</del> <br>358,58 TL
 					<a href="#" class="btn btn-primary">Add to Cart</a>
 				  </p>
 
@@ -267,11 +267,11 @@
                 <h5 class="mt-0 mb-1">Cooler Master</h5>
               MasterLiquid Lite 240 LIQUID COOLER AM4 SUPPORTED 240MM 
 
-				  <p class="card-text"><del style="color: darkgray;">999,01 $
+				  <p class="card-text"><del style="color: darkgray;">999,01 TL
 
 
 
-				</del> <br>657,47 $
+				</del> <br>657,47 TL
 
 					<a href="#" class="btn btn-primary">Add to Cart</a>
 				  </p>
@@ -285,11 +285,11 @@
                 <h5 class="mt-0 mb-1">Rampage</h5>
                 Rampage Titan K9 RGB Mekanik Hisli USB Oyuncu Klavye
 
-				  <p class="card-text"><del style="color: darkgray;">119,00 $
+				  <p class="card-text"><del style="color: darkgray;">119,00 TL
 
 
 
-				</del> <br>99,00 $
+				</del> <br>99,00 TL
 
 					<a href="#" class="btn btn-primary">Add to Cart</a>
 				  </p>
@@ -308,11 +308,11 @@
                 <h5 class="mt-0 mb-1">Rampage</h5>
                 Rampage KB-R66 USB Gökkuşağı Aydınlatmalı Q Multimedia Oyuncu 
 
-				  <p class="card-text"><del style="color: darkgray;">91,05 $
+				  <p class="card-text"><del style="color: darkgray;">91,05 TL
 
 
 
-				</del> <br>78,87 $
+				</del> <br>78,87 TL
 
 					<a href="#" class="btn btn-primary">Add to Cart</a>
 				  </p>
@@ -327,12 +327,12 @@
                 Logitech M170 Kablosuz Siyah Renk Hassas Mouse 
 
 
-				  <p class="card-text"><del style="color: darkgray;">69,20 $
+				  <p class="card-text"><del style="color: darkgray;">69,20 TL
 
 
 
 
-				</del> <br>58,79 $
+				</del> <br>58,79 TL
 
 
 					<a href="#" class="btn btn-primary">Add to Cart</a>
@@ -347,11 +347,11 @@
                 <h5 class="mt-0 mb-1">ViewSonic</h5>
                 VX2458-C-mhd 23.6" 144Hz 1ms FreeSync/GSync FHD Curved Gamer
 
-				  <p class="card-text"><del style="color: darkgray;">1874,00 $
+				  <p class="card-text"><del style="color: darkgray;">1874,00 TL
 
 
 
-				</del> <br>1299,08 $
+				</del> <br>1299,08 TL
 
 					<a href="#" class="btn btn-primary">Add to Cart</a>
 				  </p>
@@ -369,11 +369,11 @@
                 <h5 class="mt-0 mb-1">Samsung</h5>
                 Samsung LC27HG70QQMXUF 27" 1ms 144Hz HDR600 Curved QLED 
 
-				  <p class="card-text"><del style="color: darkgray;">4624,00 $
+				  <p class="card-text"><del style="color: darkgray;">4624,00 TL
 
 
 
-				</del> <br>2749,40 $
+				</del> <br>2749,40 TL
 
 					<a href="#" class="btn btn-primary">Add to Cart</a>
 				  </p>
@@ -387,11 +387,11 @@
                 <h5 class="mt-0 mb-1">Lenovo</h5>
                 Lenovo V15 Intel Core i5 8265U 4GB 1TB MX110 Freedos 15.6" 
 
-				  <p class="card-text"><del style="color: darkgray;">4729,00 $
+				  <p class="card-text"><del style="color: darkgray;">4729,00 TL
 
 
 
-				</del> <br>4049,00 $
+				</del> <br>4049,00 TL
 
 					<a href="#" class="btn btn-primary">Add to Cart</a>
 				  </p>
@@ -405,11 +405,11 @@
                 <h5 class="mt-0 mb-1">Lenovo IdeaPad</h5>
                 L340-15IRH Intel Core i5 9300H 16GB 512GB SSD GTX1650 Freedos 15.6" 
 
-				  <p class="card-text"><del style="color: darkgray;">7999,00 $
+				  <p class="card-text"><del style="color: darkgray;">7999,00 TL
 
 
 
-				</del> <br>6799,00 $
+				</del> <br>6799,00 TL
 
 					<a href="#" class="btn btn-primary">Add to Cart</a>
 				  </p>

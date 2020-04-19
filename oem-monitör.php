@@ -115,32 +115,44 @@
 		  <!-- Each product row contains info of 3 elements -->
 		  
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/35/500/10494335385650.jpg"></div>
-          	<p >Lenovo IdeaPad L340-15IRH Intel Core i5 9300H 16GB 512GB SSD GTX1650 Freedos 15.6" 
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/29/1500/10260338737202.jpg
+"></div>
+          	<p >Asus ROG Strix XG49VQ 49" 144Hz 4ms (HDMI+Display) FreeSync Curved Monitör
+ 
  </p>
-			<p class="price">6799,00 $
+			<p class="price">8449,00 TL
+
 </p>
-          	<p class="productContent"><del>7999,00 $</del> </p>
+          	<p class="productContent"><del>10338,00 TL
+</del> </p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
         <article class="productInfo"><!-- Each individual product description -->
           <div>
-			 <img alt="sample" src="https://productimages.hepsiburada.net/s/36/500/10510493351986.jpg"></div>
-			  <p>Lenovo V155 AMD Ryzen R5 3500U 12GB 1TB HDD GTX 1050 15.6" FHD Freedos Bilgisayar</p>
-				<p class="price">4499,00 $</p>
-			  <p class="productContent"><del>4499,00 $</del></p>
+			 <img alt="sample" src="https://productimages.hepsiburada.net/s/31/500/10320492789810.jpg
+"></div>
+			  <p>Asus ROG Swift PG35VQ 35" 200Hz 2ms (HDMI+Display) G-Sync UWQHD Curved Monitör
+</p>
+				<p class="price">27999,00 TL
+</p>
+			  <p class="productContent"><del>29665,00 TL
+</del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/35/500/10465870118962.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/22/500/9941118222386.jpg
+
 "></div>
-         <p>Asus VivoBook 15 X512DA-EJ957 AMD Ryzen 5 3500U 8GB 256GB SSD Freedos 15.6" 
+         <p>AOC G2260VWQ6 21.5" 75 Hz 1ms (Analog+HDMI+Display) Full HD FreeSync Oyuncu Monitörü
+
 </p>
-				<p class="price">3899,00 $
+				<p class="price">786,15 TL
+
 </p>
-			  <p class="productContent"><del>4999,00 $
+			  <p class="productContent"><del>1149,00 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
@@ -151,39 +163,51 @@
 		  
 		<!-- Each product row contains info of 3 elements -->
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/19/1500/9826726772786.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/32/500/10373620138034.jpg
+
 " ></div>
-          <p>Samsung LC27HG70QQMXUF 27" 1ms 144Hz HDR600 QHD Curved QLED Monitör
+          <p>ViewSonic VX2758-PC-MH 27" 144Hz 1ms (HDMI+Analog) FreeSync Full HD Kavisli Monitör
+
 </p>
-				<p class="price">2749,40 $
+				<p class="price">1699,00 TL
+
 </p>
-			  <p class="productContent"><del>4624,00 $
+			  <p class="productContent"><del>2263,24 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton wow flash">
         </article>
 		  
 		  
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/23/500/10052032954418.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/31/500/10349020512306.jpg
+
 "></div>
-          <p>Asus VG248QZ 24" 144Hz 1ms (HDMI + Display + DVI-D) Full HD Oyuncu Monitör
+          <p>AOC C24G1 24" 144Hz 1ms (HDMI+Analog+Display) FreeSync Full HD Curved Monitör
+
 </p>
-				<p class="price">1496,00 $
+				<p class="price">1563,31 TL
+
 </p>
-			  <p class="productContent"><del>1982,00 $
+			  <p class="productContent"><del>1822,00 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
 		  
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/4/1500/9629561126962.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/31/500/10332945154098.jpg
+
 "></div>
-          <p>Gigabyte RX 580 Gaming OC 8GB 256Bit GDDR5 PCI-E 3.0 <br> VRAM GPU
+          <p>Samsung LC32F39MFUMXUF 32" 4ms (Cec+HDMI) Kavisli Led Ekran Full HD VA Oyuncu Monitör
+
 </p>
-				<p class="price">2618,16 $
+				<p class="price">1349,00 TL
+
 </p>
-			  <p class="productContent"><del>2826,00 $
+			  <p class="productContent"><del>1499,00 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
@@ -193,37 +217,49 @@
       <div class="productRow">
 		  
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/7/500/8882971508786.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/28/500/10220186828850.jpg
+
 "></div>
-          <p>Logitech® M185 Nano Optik Kablosuz Mouse Gri 
+          <p>LG 22MK400H 21.5" 1ms 75Hz (HDMI+Analog) FreeSync Full HD Gaming Monitör
+
 </p>
-				<p class="price">93,06 $
+				<p class="price">708,76 TL
+
 </p>
-			  <p class="productContent"><del>112,00 $
+			  <p class="productContent"><del>754,00 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/20/500/9872574611506.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/23/500/10052032954418.jpg
+
 "></div>
-          <p>Rampage KB-R66 USB RGB LED Q Multimedia Gamer Keyboard Steel
+          <p>Asus VG248QZ 24" 144Hz 1ms (HDMI + Display + DVI-D) Full HD Oyuncu Monitör
+
 </p>
-				<p class="price">78,87 $
+				<p class="price">1496,00 TL
+
 </p>
-			  <p class="productContent"><del>91,05 $
+			  <p class="productContent"><del>1982,00 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/20/500/9902024196146.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/19/1500/9826726772786.jpg
+
 "></div>
-          <p>Cooler Master MasterLiquid Lite 240 LIQUID COOLER 
+          <p>Samsung LC27HG70QQMXUF 27" 1ms 144Hz (Display+2xHDMI) FreeSync 2 HDR600 QHD Curved QLED Monitör
+
 </p>
-				<p class="price">657,47 $
+				<p class="price">2749,40 TL
+
 </p>
-			  <p class="productContent"><del>999,01 $
+			  <p class="productContent"><del>4624,00 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>

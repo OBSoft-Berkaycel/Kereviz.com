@@ -120,10 +120,10 @@
           	<p >Gigabyte B450M S2H AMD B450 2133MHz DDR4 Soket AM4 mATX Anakart
 
  </p>
-			<p class="price">489,00 $
+			<p class="price">489,00 TL
 
 </p>
-          	<p class="productContent"><del>543,33 $
+          	<p class="productContent"><del>543,33 TL
 </del> </p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
@@ -134,9 +134,9 @@
 "></div>
 			  <p>Gigabyte A320M-S2H AMD A320 3200Mhz(OC) DDR4 Socket AM4 PCI-E 2.0 Anakart
 </p>
-				<p class="price">422,43 $
+				<p class="price">422,43 TL
 </p>
-			  <p class="productContent"><del>470,00 $
+			  <p class="productContent"><del>470,00 TL
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
@@ -144,8 +144,8 @@
         <article class="productInfo"> <!-- Each individual product description -->
           <div><img alt="sample" src="https://productimages.hepsiburada.net/s/31/500/10328150114354.jpg"></div>
          <p>Asus Prime A320M-F AMD A320 2133MHz DDR4 Soket AM4 mATX Anakart</p>
-				<p class="price">443,55 $</p>
-			  <p class="productContent"><del>529,62 $</del></p>
+				<p class="price">443,55 TL</p>
+			  <p class="productContent"><del>529,62 TL</del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
@@ -164,10 +164,10 @@
           <p>Asus Prime B450M-K AMD B450 AM4 DDR4 4400 Mhz mATX Anakart
 
 </p>
-				<p class="price">617,89 $
+				<p class="price">617,89 TL
 
 </p>
-			  <p class="productContent"><del>703,00 $
+			  <p class="productContent"><del>703,00 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton wow flash">
@@ -181,10 +181,10 @@
           <p>MSI B450M-A Pro Max AMD B450 3200MHz DDR4 mATX Anakart
 
 </p>
-				<p class="price">608,19 $
+				<p class="price">608,19 TL
 
 </p>
-			  <p class="productContent"><del>668,00 $
+			  <p class="productContent"><del>668,00 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
@@ -198,10 +198,10 @@
 
 
 </p>
-				<p class="price">853,14 $
+				<p class="price">853,14 TL
 
 </p>
-			  <p class="productContent"><del>922,00 $
+			  <p class="productContent"><del>922,00 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
@@ -218,10 +218,10 @@
           <p>MSI B450 Tomahawk Max AMD B450 4133MHz DDR4 Soket AM4 ATX Anakart
 
 </p>
-				<p class="price">1114,13 $
+				<p class="price">1114,13 TL
 
 </p>
-			  <p class="productContent"><del>1148,59 $
+			  <p class="productContent"><del>1148,59 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
@@ -234,10 +234,10 @@
           <p>Asus ROG Strix B360-H Gaming 2666MHz DDR4 Soket 1151 ATX Anakart
 
 </p>
-				<p class="price">884,28 $
+				<p class="price">884,28 TL
 
 </p>
-			  <p class="productContent"><del>1172,00 $
+			  <p class="productContent"><del>1172,00 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
@@ -250,10 +250,10 @@
           <p>MSI MPG X570 Gaming Edge WiFi AMD X570 1866MHz DDR4 Soket AM4 ATX Anakart
 
 </p>
-				<p class="price">1793,87 $
+				<p class="price">1793,87 TL
 
 </p>
-			  <p class="productContent"><del>1939,00 $
+			  <p class="productContent"><del>1939,00 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
@@ -264,9 +264,9 @@
 "></div>
          <p>Asus ROG Zenith II Extreme AMD TRX40 4733MHz DDR4 TR4 ATX Anakart
 </p>
-				<p class="price">6818,50 $
+				<p class="price">6818,50 TL
 </p>
-			  <p class="productContent"><del>7648,90 $
+			  <p class="productContent"><del>7648,90 TL
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>

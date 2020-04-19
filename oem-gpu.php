@@ -120,10 +120,10 @@
           	<p >MSI AMD Radeon RX 570 ARMOR 4G OC 4GB 256 bit GDDR5 DX(12) PCI-E 3.0
 
  </p>
-			<p class="price">1292,94 $
+			<p class="price">1292,94 TL
 
 </p>
-          	<p class="productContent"><del>1621,00 $
+          	<p class="productContent"><del>1621,00 TL
 </del> </p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
@@ -134,9 +134,9 @@
 "></div>
 			  <p>MSI GeForce GTX 1660 Super Gaming X 6GB 192Bit GDDR6 DX(12) PCI-E 3.0
 </p>
-				<p class="price">2574,50 $
+				<p class="price">2574,50 TL
 </p>
-			  <p class="productContent"><del>2899,00 $
+			  <p class="productContent"><del>2899,00 TL
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
@@ -148,10 +148,10 @@
          <p>Gigabyte RX 580 Gaming OC 8GB 256Bit GDDR5 PCI-E 3.0
  
 </p>
-				<p class="price">2618,16 $
+				<p class="price">2618,16 TL
 
 </p>
-			  <p class="productContent"><del>2826,00 $
+			  <p class="productContent"><del>2826,00 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
@@ -171,10 +171,10 @@
           <p>Asus GT1030 PH-GT1030-O2G 2GB 64Bit GDDR5
 
 </p>
-				<p class="price">786,18 $
+				<p class="price">786,18 TL
 
 </p>
-			  <p class="productContent"><del>862,00 $
+			  <p class="productContent"><del>862,00 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton wow flash">
@@ -188,10 +188,10 @@
           <p>MSI NVIDIA GeForce GT 710 2GD3H LP 2GB 64 bit DDR3 DX(12) PCI-E 2.0
 
 </p>
-				<p class="price">382,50 $
+				<p class="price">382,50 TL
 
 </p>
-			  <p class="productContent"><del>387,00 $
+			  <p class="productContent"><del>387,00 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
@@ -205,10 +205,10 @@
           <p>MSI Nvidia GeForce RTX 2060 Super Armor OC 8GB 256Bit GDDR6 DX(12) PCI-E 3.0
 
 </p>
-				<p class="price">4303,96 $
+				<p class="price">4303,96 TL
 
 </p>
-			  <p class="productContent"><del>4730,00 $
+			  <p class="productContent"><del>4730,00 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
@@ -225,10 +225,10 @@
           <p>MSI AMD Radeon RX 5700 Evoke OC 8GB 256Bit GDDR6 DX(12) PCI-E 4.0
 
 </p>
-				<p class="price">3152,57 $
+				<p class="price">3152,57 TL
 
 </p>
-			  <p class="productContent"><del>3860,00 $
+			  <p class="productContent"><del>3860,00 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
@@ -241,10 +241,10 @@
           <p>MSI GeForce RTX 2070 Super Gaming X 8GB 256Bit GDDR6 PCI-E 3.0
 
 </p>
-				<p class="price">5260,31 $
+				<p class="price">5260,31 TL
 
 </p>
-			  <p class="productContent"><del>5741,67 $
+			  <p class="productContent"><del>5741,67 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
@@ -257,10 +257,10 @@
           <p>MSI NVIDIA GeForce GTX 1050 Ti AERO ITX OCV1 4GB 128bit GDDR5
 
 </p>
-				<p class="price">1272,54 $
+				<p class="price">1272,54 TL
 
 </p>
-			  <p class="productContent"><del>1456,00 $
+			  <p class="productContent"><del>1456,00 TL
 
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
@@ -277,11 +277,11 @@
 
 
 </p>
-				<p class="price">12089,10 $
+				<p class="price">12089,10 TL
 
 
 </p>
-			  <p class="productContent"><del>12914,00 $
+			  <p class="productContent"><del>12914,00 TL
 
 
 </del></p>

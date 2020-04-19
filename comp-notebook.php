@@ -118,9 +118,9 @@
           <div><img alt="sample" src="https://productimages.hepsiburada.net/s/35/500/10494335385650.jpg"></div>
           	<p >Lenovo IdeaPad L340-15IRH Intel Core i5 9300H 16GB 512GB SSD GTX1650 Freedos 15.6" 
  </p>
-			<p class="price">6799,00 $
+			<p class="price">6799,00 TL
 </p>
-          	<p class="productContent"><del>7999,00 $</del> </p>
+          	<p class="productContent"><del>7999,00 TL</del> </p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
@@ -128,8 +128,8 @@
           <div>
 			 <img alt="sample" src="https://productimages.hepsiburada.net/s/36/500/10510493351986.jpg"></div>
 			  <p>Lenovo V155 AMD Ryzen R5 3500U 12GB 1TB HDD GTX 1050 15.6" FHD Freedos Bilgisayar</p>
-				<p class="price">4499,00 $</p>
-			  <p class="productContent"><del>4499,00 $</del></p>
+				<p class="price">4499,00 TL</p>
+			  <p class="productContent"><del>4499,00 TL</del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
@@ -138,9 +138,9 @@
 "></div>
          <p>Asus VivoBook 15 X512DA-EJ957 AMD Ryzen 5 3500U 8GB 256GB SSD Freedos 15.6" 
 </p>
-				<p class="price">3899,00 $
+				<p class="price">3899,00 TL
 </p>
-			  <p class="productContent"><del>4999,00 $
+			  <p class="productContent"><del>4999,00 TL
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
@@ -151,39 +151,51 @@
 		  
 		<!-- Each product row contains info of 3 elements -->
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/19/1500/9826726772786.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/34/500/10460324102194.jpg
+
 " ></div>
-          <p>Samsung LC27HG70QQMXUF 27" 1ms 144Hz HDR600 QHD Curved QLED Monitör
+          <p>Asus G531GT-BQ429 Intel Core i5 9300H 16GB 512GB SSD GTX1650 Freedos 15.6" FHD Taşınabilir Bilgisayar
+
 </p>
-				<p class="price">2749,40 $
+				<p class="price">7349,00 TL
+
 </p>
-			  <p class="productContent"><del>4624,00 $
+			  <p class="productContent"><del>9057,66 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton wow flash">
         </article>
 		  
 		  
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/23/500/10052032954418.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/31/500/10347073241138.jpg
+
 "></div>
-          <p>Asus VG248QZ 24" 144Hz 1ms (HDMI + Display + DVI-D) Full HD Oyuncu Monitör
+          <p>Asus ZenBook UX334FL-A4047T Intel Core i7 8565U 16GB 256GB SSD MX250 Windows 10 Home 13.3" FHD Taşınabilir Bilgisayar
+
 </p>
-				<p class="price">1496,00 $
+				<p class="price">8349,00 TL
+
 </p>
-			  <p class="productContent"><del>1982,00 $
+			  <p class="productContent"><del>11619,00 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
 		  
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/4/1500/9629561126962.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/32/1500/10378640130098.jpg
+
 "></div>
-          <p>Gigabyte RX 580 Gaming OC 8GB 256Bit GDDR5 PCI-E 3.0 <br> VRAM GPU
+          <p>MSI GF75 Thin 9SC-439XTR Intel Core i7 9750H 8GB 1TB + 256GB SSD GTX1650 Freedos 17.3" FHD Taşınabilir Bilgisayar
+
 </p>
-				<p class="price">2618,16 $
+				<p class="price">10918,30 TL
+
 </p>
-			  <p class="productContent"><del>2826,00 $
+			  <p class="productContent"><del>11569,00 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
@@ -193,37 +205,49 @@
       <div class="productRow">
 		  
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/7/500/8882971508786.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/32/1500/10378640359474.jpg
+
 "></div>
-          <p>Logitech® M185 Nano Optik Kablosuz Mouse Gri 
+          <p>MSI GL65 9SC-041XTR Intel Core i5 9300H 8GB 256GB SSD GTX1650 Freedos 15.6" FHD Taşınabilir Bilgisayar
+
 </p>
-				<p class="price">93,06 $
+				<p class="price">8558,55 TL
+
 </p>
-			  <p class="productContent"><del>112,00 $
+			  <p class="productContent"><del>9069,00 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/20/500/9872574611506.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/2/1500/9581637238834.jpg
+
 "></div>
-          <p>Rampage KB-R66 USB RGB LED Q Multimedia Gamer Keyboard Steel
+          <p>MSI GT83VR 7RF(Titan SLI)-201TR Intel Core i7 7920HQ 64GB 1TB + 512GB SSD GTX1080 SLI Windows 10 Home 18.4" FHD Taşınabilir Bilgisayar
+
 </p>
-				<p class="price">78,87 $
+				<p class="price">47158,82 TL
+
 </p>
-			  <p class="productContent"><del>91,05 $
+			  <p class="productContent"><del>49909,00 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/20/500/9902024196146.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/33/500/10394925826098.jpg
+
 "></div>
-          <p>Cooler Master MasterLiquid Lite 240 LIQUID COOLER 
+          <p>Asus ROG G731GW-EV009 Intel Core i9 9880H 16GB 1TB SSD RTX2070 Freedos 17.3" FHD Taşınabilir Bilgisayar
+
 </p>
-				<p class="price">657,47 $
+				<p class="price">18999,00 TL
+
 </p>
-			  <p class="productContent"><del>999,01 $
+			  <p class="productContent"><del>21119,00 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>

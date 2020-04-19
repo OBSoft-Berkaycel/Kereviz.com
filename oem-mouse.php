@@ -115,32 +115,44 @@
 		  <!-- Each product row contains info of 3 elements -->
 		  
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/35/500/10494335385650.jpg"></div>
-          	<p >Lenovo IdeaPad L340-15IRH Intel Core i5 9300H 16GB 512GB SSD GTX1650 Freedos 15.6" 
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/0/500/9478600294450.jpg
+"></div>
+          	<p >Logitech M170 Kablosuz Siyah Mouse
+ 
  </p>
-			<p class="price">6799,00 $
+			<p class="price">58,79 TL
+
 </p>
-          	<p class="productContent"><del>7999,00 $</del> </p>
+          	<p class="productContent"><del>69,20 TL
+</del> </p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
         <article class="productInfo"><!-- Each individual product description -->
           <div>
-			 <img alt="sample" src="https://productimages.hepsiburada.net/s/36/500/10510493351986.jpg"></div>
-			  <p>Lenovo V155 AMD Ryzen R5 3500U 12GB 1TB HDD GTX 1050 15.6" FHD Freedos Bilgisayar</p>
-				<p class="price">4499,00 $</p>
-			  <p class="productContent"><del>4499,00 $</del></p>
+			 <img alt="sample" src="https://productimages.hepsiburada.net/s/7/500/8882971508786.jpg
+"></div>
+			  <p>Logitech® M185 Nano Optik Kablosuz Mouse Gri 
+</p>
+				<p class="price">93,06 TL
+</p>
+			  <p class="productContent"><del>112,00 TL
+</del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/35/500/10465870118962.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/18/1500/9790968004658.jpg
+
 "></div>
-         <p>Asus VivoBook 15 X512DA-EJ957 AMD Ryzen 5 3500U 8GB 256GB SSD Freedos 15.6" 
+         <p>Asus WT425 Kablosuz Optik Sessiz Tıklama Özellikli Siyah Mouse
+
 </p>
-				<p class="price">3899,00 $
+				<p class="price">93,91 TL
+
 </p>
-			  <p class="productContent"><del>4999,00 $
+			  <p class="productContent"><del>114,00 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
@@ -151,39 +163,51 @@
 		  
 		<!-- Each product row contains info of 3 elements -->
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/19/1500/9826726772786.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/10/500/8907543445554.jpg
+
 " ></div>
-          <p>Samsung LC27HG70QQMXUF 27" 1ms 144Hz HDR600 QHD Curved QLED Monitör
+          <p>Logitech G300s Kablolu Oyuncu Mouse
+
 </p>
-				<p class="price">2749,40 $
+				<p class="price">208,99 TL
+
 </p>
-			  <p class="productContent"><del>4624,00 $
+			  <p class="productContent"><del>221,00 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton wow flash">
         </article>
 		  
 		  
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/23/500/10052032954418.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/19/500/9847551787058.jpg
+
 "></div>
-          <p>Asus VG248QZ 24" 144Hz 1ms (HDMI + Display + DVI-D) Full HD Oyuncu Monitör
+          <p>Rampage Shine SMX-R15 10000 DPI RGB Oyuncu Mouse Siyah - Gri
+
 </p>
-				<p class="price">1496,00 $
+				<p class="price">169,89 TL
+
 </p>
-			  <p class="productContent"><del>1982,00 $
+			  <p class="productContent"><del>199,00 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
 		  
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/4/1500/9629561126962.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/8/500/8908316016690.jpg
+
 "></div>
-          <p>Gigabyte RX 580 Gaming OC 8GB 256Bit GDDR5 PCI-E 3.0 <br> VRAM GPU
+          <p>Logitech G402 Hyperion Fury Oyun Mouse
+
 </p>
-				<p class="price">2618,16 $
+				<p class="price">295,99 TL
+
 </p>
-			  <p class="productContent"><del>2826,00 $
+			  <p class="productContent"><del>418,00 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
@@ -193,37 +217,70 @@
       <div class="productRow">
 		  
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/7/500/8882971508786.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/35/1500/10471209467954.jpg
+
 "></div>
-          <p>Logitech® M185 Nano Optik Kablosuz Mouse Gri 
+          <p>SteelSeries Rival 3 RGB Oyuncu Mouse
+
 </p>
-				<p class="price">93,06 $
+				<p class="price">268,99 TL
+
 </p>
-			  <p class="productContent"><del>112,00 $
+			  <p class="productContent"><del>277,31 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/20/500/9872574611506.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/6/500/9750373269554.jpg
+
 "></div>
-          <p>Rampage KB-R66 USB RGB LED Q Multimedia Gamer Keyboard Steel
+          <p>Logitech G903 Lightspeed Kablosuz Oyuncu Mouse
+
 </p>
-				<p class="price">78,87 $
+				<p class="price">1347,64 TL
+
 </p>
-			  <p class="productContent"><del>91,05 $
+			  <p class="productContent"><del>1392,00 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/20/500/9902024196146.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/35/500/10476582436914.jpg
+
 "></div>
-          <p>Cooler Master MasterLiquid Lite 240 LIQUID COOLER 
+          <p>Razer Basilisk Ultimate (TBC) Kablolu/Kablosuz Oyuncu Mouse
+
 </p>
-				<p class="price">657,47 $
+				<p class="price">1104,88 TL
+
 </p>
-			  <p class="productContent"><del>999,01 $
+			  <p class="productContent"><del>1139,05 TL
+
+</del></p>
+          <input type="button" name="button" value="Buy" class="buyButton">
+        </article>
+		  
+		  
+		  <article class="productInfo"><!-- Each individual product description -->
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/2/500/9555952762930.jpg
+
+
+"></div>
+          <p>Asus L701-1A-ROG Spatha Oyuncu Mouse
+
+
+</p>
+				<p class="price">1041,21 TL
+
+
+</p>
+			  <p class="productContent"><del>1512,00 TL
+
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>

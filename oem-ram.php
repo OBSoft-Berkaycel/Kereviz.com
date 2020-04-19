@@ -115,32 +115,44 @@
 		  <!-- Each product row contains info of 3 elements -->
 		  
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/35/500/10494335385650.jpg"></div>
-          	<p >Lenovo IdeaPad L340-15IRH Intel Core i5 9300H 16GB 512GB SSD GTX1650 Freedos 15.6" 
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/19/1500/9852948480050.jpg
+"></div>
+          	<p >Corsair Vengeance LPX 8GB 3000MHz DDR4
+ 
  </p>
-			<p class="price">6799,00 $
+			<p class="price">334,75 TL
+
 </p>
-          	<p class="productContent"><del>7999,00 $</del> </p>
+          	<p class="productContent"><del>391,71 TL
+</del> </p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
         <article class="productInfo"><!-- Each individual product description -->
           <div>
-			 <img alt="sample" src="https://productimages.hepsiburada.net/s/36/500/10510493351986.jpg"></div>
-			  <p>Lenovo V155 AMD Ryzen R5 3500U 12GB 1TB HDD GTX 1050 15.6" FHD Freedos Bilgisayar</p>
-				<p class="price">4499,00 $</p>
-			  <p class="productContent"><del>4499,00 $</del></p>
+			 <img alt="sample" src="https://productimages.hepsiburada.net/s/29/500/10268863201330.jpg
+"></div>
+			  <p>Corsair Vengeance 16GB(2x8GB) 3200MHz DDR4
+</p>
+				<p class="price">729,00 TL
+</p>
+			  <p class="productContent"><del>869,00 TL
+</del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/35/500/10465870118962.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/30/500/10287565078578.jpg
+
 "></div>
-         <p>Asus VivoBook 15 X512DA-EJ957 AMD Ryzen 5 3500U 8GB 256GB SSD Freedos 15.6" 
+         <p>G.Skill RipjawsV 8GB 3000Mhz DDR4
+
 </p>
-				<p class="price">3899,00 $
+				<p class="price">310,76 TL
+
 </p>
-			  <p class="productContent"><del>4999,00 $
+			  <p class="productContent"><del>341,00 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
@@ -151,39 +163,51 @@
 		  
 		<!-- Each product row contains info of 3 elements -->
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/19/1500/9826726772786.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/12/500/8936768929842.jpg
+
 " ></div>
-          <p>Samsung LC27HG70QQMXUF 27" 1ms 144Hz HDR600 QHD Curved QLED Monitör
+          <p>G.SKILL RipjawsV 8GB 2400MHz DDR4
+
 </p>
-				<p class="price">2749,40 $
+				<p class="price">302,79 TL
+
 </p>
-			  <p class="productContent"><del>4624,00 $
+			  <p class="productContent"><del>306,00 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton wow flash">
         </article>
 		  
 		  
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/23/500/10052032954418.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/33/500/10392335974450.jpg
+
 "></div>
-          <p>Asus VG248QZ 24" 144Hz 1ms (HDMI + Display + DVI-D) Full HD Oyuncu Monitör
+          <p>Kingston Hyperx Fury 8gb 2666MHZ Ddr4
+
 </p>
-				<p class="price">1496,00 $
+				<p class="price">342,65 TL
+
 </p>
-			  <p class="productContent"><del>1982,00 $
+			  <p class="productContent"><del>349,00 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
 		  
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/4/1500/9629561126962.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/20/1500/9870645690418.jpg
+
 "></div>
-          <p>Gigabyte RX 580 Gaming OC 8GB 256Bit GDDR5 PCI-E 3.0 <br> VRAM GPU
+          <p>Corsair 16GB(2x8GB) DDR4 3200MHz CL16
+
 </p>
-				<p class="price">2618,16 $
+				<p class="price">845,50 TL
+
 </p>
-			  <p class="productContent"><del>2826,00 $
+			  <p class="productContent"><del>922,00 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
@@ -193,37 +217,72 @@
       <div class="productRow">
 		  
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/7/500/8882971508786.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/6/500/9746469781554.jpg
+
 "></div>
-          <p>Logitech® M185 Nano Optik Kablosuz Mouse Gri 
+          <p>GSKILL RipjawsV 8GB 3200MHz DDR4 CL16
+
 </p>
-				<p class="price">93,06 $
+				<p class="price">330,68 TL
+
 </p>
-			  <p class="productContent"><del>112,00 $
+			  <p class="productContent"><del>367,00 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/20/500/9872574611506.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/31/500/10338433499186.jpg
+
 "></div>
-          <p>Rampage KB-R66 USB RGB LED Q Multimedia Gamer Keyboard Steel
+          <p>GSkill Trident Z Neo RGB 32GB (2x16GB) 3600MHz DDR4
+
 </p>
-				<p class="price">78,87 $
+				<p class="price">1857,00 TL
+
 </p>
-			  <p class="productContent"><del>91,05 $
+			  <p class="productContent"><del>1917,00 TL
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/20/500/9902024196146.jpg
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/19/1500/9860313907250.jpg
+
+
 "></div>
-          <p>Cooler Master MasterLiquid Lite 240 LIQUID COOLER 
+          <p>Kingston HyperX 32GB (4x8GB) 2933MHz DDR4
+
 </p>
-				<p class="price">657,47 $
+				<p class="price">1829,18 TL
+
 </p>
-			  <p class="productContent"><del>999,01 $
+			  <p class="productContent"><del>1978,00 TL
+
+</del></p>
+          <input type="button" name="button" value="Buy" class="buyButton">
+        </article>
+		  
+		  
+		  <article class="productInfo"><!-- Each individual product description -->
+          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/37/1500/10574619476018.jpg
+
+
+
+"></div>
+          <p>Corsair Vengeance RGB PRO 32GB(2x16GB) 3600MHz DDR4
+
+
+</p>
+				<p class="price">1671,05 TL
+
+
+</p>
+			  <p class="productContent"><del>1759,00 TL
+
+
 </del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>

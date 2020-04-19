@@ -66,38 +66,42 @@
       </div>
     </nav>
 
-
-
-    <div id="content" style="margin-left: 120px; margin-top: 80px; ">
-    
-    <section class="mainContent">
-    
-   <div class="container">
-        <form>
-            <div class="form-input">
-                <input type="text" name="email" placeholder="Enter Your Email"/> 
-            </div>
-              <br>
-            <div class="form-input">
-                <input type="text" name="username" placeholder="Enter Your User Name"/> 
-            </div>
-              <br>
-            <div class="form-input">
-                <input type="password" name="password" placeholder="Enter Your Password"/>
-            </div>
-              <br>
-              <div class="form-input">
-                <input type="password" name="passwordRepeat" placeholder="Repeat Your Password"/>
-            </div>
-            <br>
-            <input type="submit" name="signup-submit" value="SIGN UP" class="btn-login"/>
-        </form>
-    </div>
 	
-
-  <br><br><br><br><br>
+<div id="mainWrapper" style="width: 90%;">
+  
+  
+  <div id="content">
+    
+   	<div class="card">
+  
+	 <div style="margin-bottom: 10px;">
+		 
+		 
+		 <h1 style="text-align: center;"> Welcome To Kereviz.com</h1><br>
+		 <h3 style="text-align: center;"> Sign Up for Free</h3><br>
+		 
+		<div style="margin-left: 20%;">
+		 		<label for="">Enter Your Email:</label>
+		 <input type="text" placeholder="Enter Your Email:(Exp:example@example.com)" style="width: 50%; border-radius: 30px; text-align: center; margin-left: 4%;"> <br>
+		<label for="">Enter Your Password:</label>
+		 <input type="text" placeholder="Enter Your Password:(Btw 6-24 chrtrs)" style="width: 50%; border-radius: 30px; margin-top: 2%; text-align: center;"><br>
+		<label for="">Enter Your Password:</label>
+		 <input type="text" placeholder="Password Repeat: " style="width: 50%; border-radius: 30px; margin-top: 2%; text-align: center;"><br>
+			<button class="btn-outline-light" style="background-color: chartreuse;margin-left:  16%; width: 50%; border-radius: 30px; margin-top: 0,5%; padding-bottom: 10px;">
+				<span style="margin-top: 0,5%; font-weight: bold;">Sign Up</span></button>
+			
+		</div> 
+		
+		
+	</div>
+	</div>
+	  
+	  
+	  
+  </div>
 	
-	 <div class="container text-white bg-dark p-4" style="width: 120%;">
+	 <div class="container text-white bg-dark p-4" style="margin-top: 50px;">
+
       <div class="row">
         <div class="col-6 col-md-8 col-lg-7">
           <div class="row text-center">

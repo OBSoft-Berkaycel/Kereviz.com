@@ -115,33 +115,29 @@
 		  <!-- Each product row contains info of 3 elements -->
 		  
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/35/500/10494335385650.jpg"></div>
-          	<p >Lenovo IdeaPad L340-15IRH Intel Core i5 9300H 16GB 512GB SSD GTX1650 Freedos 15.6" 
- </p>
-			<p class="price">6799,00 $
-</p>
-          	<p class="productContent"><del>7999,00 $</del> </p>
+          <div><img alt="sample" src="https://n11scdn1.akamaized.net/a1/1024/10/94/04/64/55147074.jpg
+"></div>
+          	<p >"Apple iPad 7. Nesil WiFi MW762TU/A 32 GB 10.2"" Tablet Altın"</p>
+			<p class="price">2499,99 TL</p>
+          	<p class="productContent"><del>2600 TL</del> </p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
         <article class="productInfo"><!-- Each individual product description -->
           <div>
-			 <img alt="sample" src="https://productimages.hepsiburada.net/s/36/500/10510493351986.jpg"></div>
-			  <p>Lenovo V155 AMD Ryzen R5 3500U 12GB 1TB HDD GTX 1050 15.6" FHD Freedos Bilgisayar</p>
-				<p class="price">4499,00 $</p>
-			  <p class="productContent"><del>4499,00 $</del></p>
+			 <img alt="sample" src="https://n11scdn1.akamaized.net/a1/1024/10/59/96/70/55366376.png
+"></div>
+			  <p>Huawei T5 32 GB 10.1" Tablet</p>
+				<p class="price">1449,99 TL</p>
+			  <p class="productContent"><del>1860 TL</del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/35/500/10465870118962.jpg
-"></div>
-         <p>Asus VivoBook 15 X512DA-EJ957 AMD Ryzen 5 3500U 8GB 256GB SSD Freedos 15.6" 
-</p>
-				<p class="price">3899,00 $
-</p>
-			  <p class="productContent"><del>4999,00 $
-</del></p>
+          <div><img alt="sample" src="https://cdn.istanbulbilisim.com/pd/0/huawei-mediapad-t5-10-10-1-quot--tablet-pc_287663_1557397924_3918.jpg"></div>
+         <p>Huawei Mediapad T5 16 GB 10.1" Tablet</p>
+				<p class="price">1089,99 TL</p>
+			  <p class="productContent"><del>1340 TL</del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
       </div>
@@ -151,40 +147,28 @@
 		  
 		<!-- Each product row contains info of 3 elements -->
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/19/1500/9826726772786.jpg
-" ></div>
-          <p>Samsung LC27HG70QQMXUF 27" 1ms 144Hz HDR600 QHD Curved QLED Monitör
-</p>
-				<p class="price">2749,40 $
-</p>
-			  <p class="productContent"><del>4624,00 $
-</del></p>
+          <div><img alt="sample" src="https://n11scdn1.akamaized.net/a1/1024/07/44/33/85/58710822.png" ></div>
+          <p>Apple iPad 9.7 2018 (6. Nesil) MR7K2TU/A 128 GB 9.7" Tablet Gümüş</p>
+				<p class="price">2748,99 TL</p>
+			  <p class="productContent"><del>3690,7 TL</del></p>
           <input type="button" name="button" value="Buy" class="buyButton wow flash">
         </article>
 		  
 		  
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/23/500/10052032954418.jpg
-"></div>
-          <p>Asus VG248QZ 24" 144Hz 1ms (HDMI + Display + DVI-D) Full HD Oyuncu Monitör
-</p>
-				<p class="price">1496,00 $
-</p>
-			  <p class="productContent"><del>1982,00 $
-</del></p>
+          <div><img alt="sample" src="https://n11scdn1.akamaized.net/a1/1024/13/46/45/41/89195222.jpeg"></div>
+          <p>Casper Via S20 32 GB 10.1" Tablet</p>
+				<p class="price">1078,99 TL</p>
+			  <p class="productContent"><del>1319 TL</del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
 		  
         <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/4/1500/9629561126962.jpg
-"></div>
-          <p>Gigabyte RX 580 Gaming OC 8GB 256Bit GDDR5 PCI-E 3.0 <br> VRAM GPU
-</p>
-				<p class="price">2618,16 $
-</p>
-			  <p class="productContent"><del>2826,00 $
-</del></p>
+          <div><img alt="sample" src="https://n11scdn1.akamaized.net/a1/1024/04/59/24/02/67676883.jpg"></div>
+          <p>Samsung SM-T590 Galaxy Tab A 32 GB 10.5" Tabl</p>
+				<p class="price">1999,99 TL</p>
+			  <p class="productContent"><del>2099 TL</del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
       </div>
@@ -193,40 +177,16 @@
       <div class="productRow">
 		  
         <article class="productInfo"> <!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/7/500/8882971508786.jpg
-"></div>
-          <p>Logitech® M185 Nano Optik Kablosuz Mouse Gri 
-</p>
-				<p class="price">93,06 $
-</p>
-			  <p class="productContent"><del>112,00 $
-</del></p>
+          <div><img alt="sample" src="https://n11scdn1.akamaized.net/a1/1024/15/30/46/17/29948595.jpeg"></div>
+          <p>"Apple iPad Mini 3 MGJ02TU/A WiFi + Cellular 64 GB 7.9"" Tablet Uzay Grisi"</p>
+				<p class="price">1599 TL</p>
+			  <p class="productContent"><del>1699 TL</del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
-        <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/20/500/9872574611506.jpg
-"></div>
-          <p>Rampage KB-R66 USB RGB LED Q Multimedia Gamer Keyboard Steel
-</p>
-				<p class="price">78,87 $
-</p>
-			  <p class="productContent"><del>91,05 $
-</del></p>
-          <input type="button" name="button" value="Buy" class="buyButton">
-        </article>
+        
 		  
-        <article class="productInfo"><!-- Each individual product description -->
-          <div><img alt="sample" src="https://productimages.hepsiburada.net/s/20/500/9902024196146.jpg
-"></div>
-          <p>Cooler Master MasterLiquid Lite 240 LIQUID COOLER 
-</p>
-				<p class="price">657,47 $
-</p>
-			  <p class="productContent"><del>999,01 $
-</del></p>
-          <input type="button" name="button" value="Buy" class="buyButton">
-        </article>
+       
       </div>
     </section>
   </div>
