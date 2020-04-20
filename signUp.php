@@ -80,17 +80,23 @@
 		 <h1 style="text-align: center;"> Welcome To Kereviz.com</h1><br>
 		 <h3 style="text-align: center;"> Sign Up for Free</h3><br>
 		 
-		<div style="margin-left: 20%;">
-		 		<label for="">Enter Your Email:</label>
-		 <input type="text" placeholder="Enter Your Email:(Exp:example@example.com)" style="width: 50%; border-radius: 30px; text-align: center; margin-left: 4%;"> <br>
-		<label for="">Enter Your Password:</label>
-		 <input type="text" placeholder="Enter Your Password:(Btw 6-24 chrtrs)" style="width: 50%; border-radius: 30px; margin-top: 2%; text-align: center;"><br>
-		<label for="">Enter Your Password:</label>
-		 <input type="text" placeholder="Password Repeat: " style="width: 50%; border-radius: 30px; margin-top: 2%; text-align: center;"><br>
-			<button class="btn-outline-light" style="background-color: chartreuse;margin-left:  16%; width: 50%; border-radius: 30px; margin-top: 0,5%; padding-bottom: 10px;">
-				<span style="margin-top: 0,5%; font-weight: bold;">Sign Up</span></button>
-			
-		</div> 
+		<form action="signUp.inc.php" method="post">
+          <div style="margin-left: 20%;">
+            <label for="" style="margin-right: 1%;">Enter Your Username:</label>
+     <input type="text" placeholder="Enter An Username:" style="width: 50%; border-radius: 30px; text-align: center; margin-left: 0%;" name="username"> <br>
+        <label for="">Enter Your Email:</label>
+     <input type="text" placeholder="Enter Your Email:(Exp:example@example.com)" style="width: 50%; border-radius: 30px; text-align: center; margin-left: 4%; margin-top: 2%;" name="email"> <br>
+    <label for="">Enter Your Password:</label>
+     <input type="Password" placeholder="Enter Your Password:(Btw 6-24 chrtrs)" style="width: 50%; border-radius: 30px; margin-top: 2%; text-align: center; margin-left: 1%;" name="pwd"><br>
+    <label for="">Enter Your Password:</label>
+     <input type="Password" placeholder="Password Repeat: " style="width: 50%; border-radius: 30px; margin-top: 2%; text-align: center; margin-left: 1%;"  name="pwd_repeat"><br>
+      
+      <button class="btn-outline-light" style="background-color: chartreuse;margin-left:  16.5%; width: 50%; border-radius: 30px; margin-top: 0,5%; padding-bottom: 10px;">
+        <span style="margin-top: 0,5%; font-weight: bold;"  name="signUp-submit">Sign Up</span></button>
+    
+    </div> 
+
+    </form>
 		
 		
 	</div>
@@ -170,5 +176,7 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap-4.0.0.js"></script>
+
+    
 </body>
 </html>

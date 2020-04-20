@@ -16,33 +16,33 @@
 <body>
 	<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container">
-        <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt=""  class="logo"></a>
+        <a class="navbar-brand" href="index.php"><img src="images/logo.png" alt=""  class="logo"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="index.html">Home </a>
+              <a class="nav-link" href="index.php">Home </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="products.html">Products <span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="products.php">Products <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Categories</a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="oem.html">OEM</a>
-                <a class="dropdown-item" href="computers.html">Computers</a>
-				  <a class="dropdown-item" href="sound-system.html">Sound System</a>
-				  <a class="dropdown-item" href="our_creation.html">Our Creation</a>
+                <a class="dropdown-item" href="oem.php">OEM</a>
+                <a class="dropdown-item" href="computers.php">Computers</a>
+				  <a class="dropdown-item" href="sound-system.php">Sound System</a>
+				  <a class="dropdown-item" href="our_creation.php">Our Creation</a>
                 
               </div>
             </li>
             <li class="nav-item">
-              <a class="nav-link disabled" href="user-login.html">Log In</a>
+              <a class="nav-link disabled" href="user-login.php">Log In</a>
 			</li>
 			  <li class="nav-item">
-			  <a class="nav-link " href="signUp.html"><span style="font-weight: bold;">Sign Up</span></a>
+			  <a class="nav-link " href="signUp.php"><span style="font-weight: bold;">Sign Up</span></a>
 			  </li>
           </ul>
           <form class="form-inline my-2 my-lg-0">
@@ -66,44 +66,44 @@
       <div id="menubar">
         <nav class="menu">
           <h2><!-- Title for menuset 1 -->
-			  <a href="oem.html">OEM</a></h2>
+			  <a href="oem.php">OEM</a></h2>
           <hr>
           <ul>
             <!-- List of links under menuset 1 -->
-            <li><a href="oem-motherboard.html" title="Link">Motherboard</a></li>
-            <li><a href="oem-cpu.html" title="Link">CPU</a></li>
-            <li><a href="oem-gpu.html" title="Link">GPU(Video RAM)</a></li>
-			<li><a href="oem-cases.html" title="Link">Cases</a></li>
-            <li><a href="oem-ram.html" title="Link">RAM</a></li>
-            <li><a href="oem-hdd.html" title="Link">HDD</a></li>
-			<li><a href="oem-ssd.html" title="Link">SSD</a></li>
-			<li><a href="oem-cooling-system.html" title="Link">Cooling Systems</a></li>
-			<li><a href="oem-monitör.html" title="Link">Monitor</a></li>
-			<li><a href="oem-mouse.html" title="Link">Mouse</a></li>
-			<li><a href="oem-keyboard.html" title="Link">Keyboard</a></li>
+            <li><a href="oem-motherboard.php" title="Link">Motherboard</a></li>
+            <li><a href="oem-cpu.php" title="Link">CPU</a></li>
+            <li><a href="oem-gpu.php" title="Link">GPU(Video RAM)</a></li>
+			<li><a href="oem-cases.php" title="Link">Cases</a></li>
+            <li><a href="oem-ram.php" title="Link">RAM</a></li>
+            <li><a href="oem-hdd.php" title="Link">HDD</a></li>
+			<li><a href="oem-ssd.php" title="Link">SSD</a></li>
+			<li><a href="oem-cooling-system.php" title="Link">Cooling Systems</a></li>
+			<li><a href="oem-monitör.php" title="Link">Monitor</a></li>
+			<li><a href="oem-mouse.php" title="Link">Mouse</a></li>
+			<li><a href="oem-keyboard.php" title="Link">Keyboard</a></li>
            
           </ul>
         </nav>
         <nav class="menu">
-          <h2><a href="computers.html">COMPUTERS</a></h2>
+          <h2><a href="computers.php">COMPUTERS</a></h2>
           <!-- Title for menuset 2 -->
           <hr>
           <ul>
             <!--List of links under menuset 2 -->
-            <li><a href="comp-notebook.html" title="Link">Notebook</a></li>
-            <li><a href="comp-tablet.html" title="Link">Tablet</a></li>
+            <li><a href="comp-notebook.php" title="Link">Notebook</a></li>
+            <li><a href="comp-tablet.php" title="Link">Tablet</a></li>
             
           </ul>
         </nav>
 		  <nav class="menu">
-          <h2><a href="sound-system.html">SOUND SYSTEMS</a></h2>
+          <h2><a href="sound-system.php">SOUND SYSTEMS</a></h2>
           <!-- Title for menuset 2 -->
           <hr>
           <ul>
             <!--List of links under menuset 2 -->
-            <li><a href="sound-mic.html" title="Link">Microphones</a></li>
-            <li><a href="sound-headphone.html" title="Link">Headphones</a></li>
-            <li><a href="sound-speaker.html" title="Link">Speakers</a></li>
+            <li><a href="sound-mic.php" title="Link">Microphones</a></li>
+            <li><a href="sound-headphone.php" title="Link">Headphones</a></li>
+            
            
           </ul>
         </nav>
@@ -145,15 +145,9 @@
           <div><img alt="sample" src="https://productimages.hepsiburada.net/s/32/500/10362569457714.jpg
 
 "></div>
-         <p>Corsair CC-9020121-EU SPEC-DELTA RGB MidTower ATX VS550 Power Supply
-
-</p>
-				<p class="price">830,30 TL
-
-</p>
-			  <p class="productContent"><del>864,90 TL
-
-</del></p>
+         <p>Corsair CC-9020121-EU SPEC-DELTA RGB MidTower ATX VS550</p>
+				<p class="price">830,30 TL</p>
+			  <p class="productContent"><del>864,90 TL</del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
       </div>
@@ -183,15 +177,9 @@
           <div><img alt="sample" src="https://productimages.hepsiburada.net/s/31/500/10332479356978.jpg
 
 "></div>
-          <p>CoolerMaster MasterBox MB520 650W 80+ RGB 3x120mm Tempered Glass MidTower
-
-</p>
-				<p class="price">1094,39 TL
-
-</p>
-			  <p class="productContent"><del>1306,00 TL
-
-</del></p>
+          <p>CoolerMaster MasterBox MB520 650W 80+ RGB 3x120mm Tempered</p>
+				<p class="price">1094,39 TL</p>
+			  <p class="productContent"><del>1306,00 TL</del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
@@ -200,15 +188,9 @@
           <div><img alt="sample" src="https://productimages.hepsiburada.net/s/24/1500/10088337801266.jpg
 
 "></div>
-          <p>Thermaltake Level 20 GT RGB Plus Edition 2x200mm Riing Plus+1x140mm Riing Plus Full Tower
-
-</p>
-				<p class="price">2793,51 TL
-
-</p>
-			  <p class="productContent"><del>2929,00 TL
-
-</del></p>
+          <p>Thermaltake Level 20 GT RGB Plus Edition 2x200mm Riing </p>
+				<p class="price">2793,51 TL</p>
+			  <p class="productContent"><del>2929,00 TL</del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
       </div>
@@ -220,15 +202,9 @@
           <div><img alt="sample" src="https://productimages.hepsiburada.net/s/25/500/10108025897010.jpg
 
 "></div>
-          <p>Aerocool Rift 600W 80+ Tempered Glass Mid Tower RGB
-
-</p>
-				<p class="price">721,23 TL
-
-</p>
-			  <p class="productContent"><del>849,00 TL
-
-</del></p>
+          <p>Aerocool Rift 600W 80+ Tempered Glass Mid Tower RGB</p>
+				<p class="price">721,23 TL</p>
+			  <p class="productContent"><del>849,00 TL</del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
@@ -236,15 +212,9 @@
           <div><img alt="sample" src="https://productimages.hepsiburada.net/s/31/500/10330062487602.jpg
 
 "></div>
-          <p>Cooler Master MasterBox MB501L 600W Carbon MidTower
-
-</p>
-				<p class="price">760,94 TL
-
-</p>
-			  <p class="productContent"><del>800,94 TL
-
-</del></p>
+          <p>Cooler Master MasterBox MB501L 600W Carbon MidTower</p>
+				<p class="price">760,94 TL</p>
+			  <p class="productContent"><del>800,94 TL</del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
 		  
@@ -270,18 +240,9 @@
 
 
 "></div>
-          <p>Cooler Master Cosmos C700P Black Edıtıon Rgb Tempered Glass Full Tower
-
-
-</p>
-				<p class="price">3417,21 TL
-
-
-</p>
-			  <p class="productContent"><del>3522,90 TL
-
-
-</del></p>
+          <p>Cooler Master Cosmos C700P Black Edıtıon Rgb Tempered Glass Full Tower</p>
+				<p class="price">3417,21 TL</p>
+			  <p class="productContent"><del>3522,90 TL</del></p>
           <input type="button" name="button" value="Buy" class="buyButton">
         </article>
       </div>
@@ -294,15 +255,15 @@
           <div class="row text-center">
             <div class="col-sm-6 col-md-4 col-lg-4 col-12">
               <ul class="list-unstyled">
-                <li class="btn-link"> <a href="index.html">Home Page</a> </li>
-                <li class="btn-link"> <a href="products.html">Products</a> </li>
-                <li class="btn-link"> <a href="about.html">About</a> </li>
-                <li class="btn-link"> <a href="contact.html">Contact Us</a> </li>
+                <li class="btn-link"> <a href="index.php">Home Page</a> </li>
+                <li class="btn-link"> <a href="products.php">Products</a> </li>
+                <li class="btn-link"> <a href="about.php">About</a> </li>
+                <li class="btn-link"> <a href="contact.php">Contact Us</a> </li>
               </ul>
             </div>
             <div class="col-sm-6 col-md-4 col-lg-4 col-12">
               <ul class="list-unstyled">
-                <li class="btn-link"> <a href="privacy-policy.html">Privacy Policy</a> </li>
+                <li class="btn-link"> <a href="privacy-policy.php">Privacy Policy</a> </li>
                 
               </ul>
             </div>
